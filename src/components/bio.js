@@ -57,7 +57,7 @@ const Bio = () => {
         Written by <strong>{author}</strong>, a software engineer by day and ultimate frisbee player by night.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          Simpler thoughts posted there.
+          Simpler thoughts posted on twitter.
         </a>
       </p>
     </div>
