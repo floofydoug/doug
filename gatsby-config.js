@@ -3,7 +3,7 @@ module.exports = {
     title: `Douglas Minh-Duc Phung`,
     author: `Doug Phung`,
     description: `Remember to breathe with Doug Phung`,
-    siteUrl: `dougphung.com`,
+    siteUrl: `http://www.dougphung.com`,
     social: {
       twitter: `floofydoug`,
     },
