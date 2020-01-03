@@ -12,16 +12,27 @@ I said good-bye to so many good friends back in DC, and I've made a few friends 
 Love wasn't in the California when I got here. And I experienced a lay-off / firing for the first time. But 2 weeks later I had a new job.
 
 January-Went snowboarding with the bestest of friends.
+
 February-Submitted my two weeks notice to Capital One. Crystal moved to LA. I slept on an air mattress.
+
 March-I had two final round interviews in California, but it didn't work out.
+
 April-I drove cross-country with my Dad across America. Visited some great friends along the way and saw family.
+
 May-Got a job at a luxury real estate startup making a website engine.
+
 June-Went bottom-fishing on a boat and caught the limit!
+
 July-Sarah and friends were in town for Anime Expo. 7.4 earthquake.
+
 August-Celebrated the release of v3 at work by parting at Kylie Jenner's new house (the startup had the real estate agent's keys), but I was let go the next day.
+
 September-Started working at EnterMedicare, a medicare startup. Started learning more indepth about America's healthcare environment. Got to visit home for a week before I started and played the first week of Fairfax Ultimate's Fall League.
-October-James Lee came down. and Jtow came to visit and we drove down to see club nationals.
+
+October-James Lee came down. and Jtow came to visit and we drove down to see USAU club nationals.
+
 November-Thanksgiving was spent with Cousins down in Long Beach. Shut down Wishpanda. Attended my first NBA game. Clippers vs Trailblazers @StapleCenter.
+
 December-Crystal and I broke up after 3 years 11 months. Spent Christmas surfing in El Salvador and Costa Rica while attending Nga and Pete's 25th anniversary vow renewal.
 
 Books Read This Year:
