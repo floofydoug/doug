@@ -56,6 +56,16 @@ Resolutions:
 4. Try to blog more often. My instagram daily posts only worked for 30-odd days.
 5. Explore more of LA. I haven't been to a concert here!
 
+Predictions and Politics:
+
+In 2013 I predicted we'd have a half asian woman president for 2020. I'm beginning to think Bernie-Warren with Yang ideas is the best I'm going to get. But I also predicted war starting in 2020.
+
+America's started the year with assassinations. Let us remember Asimov, "Violence is the last refuge of the incompetent". Here's to getting through the year with minimal bloodshed globally.
+
+
+
+
+
 
 
 
