@@ -1,6 +1,6 @@
 ---
 title: Responsible Growing
-date: "2020-03-09"
+date: "2020-03-09T05:54:28.688Z"
 description: "Poems are easier to write than a real update"
 ---
 
