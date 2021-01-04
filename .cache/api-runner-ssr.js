@@ -1,21 +1,15 @@
 var plugins = [{
-      plugin: require('/Users/dougphung/Projects/dougphung.com/node_modules/gatsby-remark-images/gatsby-ssr'),
-      options: {"plugins":[],"maxWidth":590},
-    },{
       plugin: require('/Users/dougphung/Projects/dougphung.com/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"trackingId":"UA-43521805-1"},
+      options: {"plugins":[],"trackingId":"UA-43521805-1","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
     },{
       plugin: require('/Users/dougphung/Projects/dougphung.com/node_modules/gatsby-plugin-feed/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       plugin: require('/Users/dougphung/Projects/dougphung.com/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Douglas Phung","short_name":"Doug Phung","start_url":"/","background_color":"#ffffff","theme_color":"#663399","display":"minimal-ui","icon":"content/assets/gatsby-icon.png"},
+      options: {"plugins":[],"name":"Douglas Phung","short_name":"Doug Phung","start_url":"/","background_color":"#ffffff","theme_color":"#663399","display":"minimal-ui","icon":"content/assets/gatsby-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"3a318e3ceb32f2e06b497c0795ae14cb"},
     },{
       plugin: require('/Users/dougphung/Projects/dougphung.com/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
-    },{
-      plugin: require('/Users/dougphung/Projects/dougphung.com/node_modules/gatsby-plugin-typography/gatsby-ssr'),
-      options: {"plugins":[],"pathToConfigModule":"src/utils/typography"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
