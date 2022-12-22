@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "For When I Remember to Write",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Doug Phung's Blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Doug Phung",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
