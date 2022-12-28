@@ -4,8 +4,9 @@ date: "2022-12-20T00:00:00.000Z"
 description: "Adjusting to Austin, TX"
 ---
 
-I wrote a resolution for the past two years on a different computer, but I think I forgot to commit them onto github. 
-I was able to find a backup from when I first created the blog with Gatsby version2, but I had to upgrade everything that has changed in the past 3 years to version 5 of Gatsby... and I ended up overhauling the whole blog. 
+I wrote a resolution for the past two years on a different computer, but I would deploy them without committing and now I've lost the posts. They are somewhere on a different laptop. 
+
+I was able to find a backup from when I first created the blog with Gatsby version2, but I had to upgrade everything that has changed in the past 3 years to version 5 of Gatsby... and I ended up overhauling the whole blog and hosting it on Gatsby Cloud instead of Github pages. So now, we get pictures! 
 
 ## January
 This was a crazy time. Sami and I had just signed our lease in Austin, Texas and I was coming back from a wedding in Tampa and flew straight to Colorado for a week-long snowboarding trip at Copper Mountain. 
@@ -86,7 +87,7 @@ There were a lot of restaurants and free food and networking and at some point d
 When the AWS program concluded with "yearbook" signings, I crashed Dennis's living room in Brooklyn. We went out that night and met up with an old co-worker from Entermedicare.
 
 ![dennis](./dennis2022.jpeg)
-![arivan](./arivan2022.jpeg)
+oh. typical dennis. He's trying to convince me he won the bet that aliens with spaceships have definitely landed. 
 
 I borrowed Dennis's car early the next morning and drove 3 hours from NYC to Wildwood, NJ to play beach ultimate with the frisbee crew.
 
@@ -100,7 +101,7 @@ The doctors were done with the paid trial and said that they needed our software
 
 In order for them to switch, we needed to also build out revenue management and appointment scheduling. Easy enough we said.
 
-Sami and planned out what our next 3 months would look like. 
+Sami and planned out what our next 3 months would look like. In the evenings when I had a couple minutes I'd play Hades and eventually beat the underworld god with three lives. I fell in love with the Good Riddance song that Eurydice sings in Tartarus. 
 
 I played in Austin's summer league and my team finished first in the tournament. This is probably my first win in 7 years. I think the last time I'd won a tournament was when we were trial testing Lord Club for Fairfax, and I didn't even try out when the team was made back then. 
 
@@ -108,15 +109,17 @@ Alex came and visited for a weekend and we got free fried ice cream for Sami's b
 
 ![alex_and_me](./alex_and_me.jpeg)
 
+But the weeks were so long. It was normal for us to be working from 9am until 2am every single day. We had hired on contractors from overseas to make the money Amazon had given us last longer, so I sometimes needed to field and answer questions when their mornings started. 
+
 ## September
 I hadn't taken a weekend off since the Wildwood weekend and a couple hours off for a birthday dinner early in August so I bought tickets to LA for 3 days to visit some friends I said goodbye to when I moved. It was my first < 50hr week since end of July.
 
 ![brothers_cousins_with_sarah](./brothers_cousins_with_sarah.jpeg)
-I missed these tacos. 
+I missed these tacos and Sarah is the best host. She drove me around all weekend.
 
 ![yung_bae](./yung_bae.jpeg)
 
-We danced a Yung Bae concert and we ate so many noodles, skewers, and tacos. I flew back to Austin on Monday morning.
+We danced to Moe Shop and Yung Bae and we ate so many noodles, skewers, and tacos. I flew back to Austin on Monday morning.
 
 Addison came to visit from Fredericksburg and while I had to work most of the day while he was in town, we still managed to do some exploring and a rage room. 
 
@@ -145,14 +148,14 @@ I got to dogsit Nick, a very good boi, for a week while my cousin was out of tow
 At the end of October I flew back to VA for a week to attend two weddings back to back and catch up with Virginia friends. I got completely obsessed with the anime Cyberpunk Edgerunners somewhere in the blur and could not stop listening to a soundtrack from the game / show "I really want to stay at your house" by Rosa Walton.
 
 ## November
-November was a lot of preparation to certification ready for our December test dates. I did manage to sneak out and go to Wurstfest and eat bratwursts and drink german beer early in the morning.
+November was a lot of preparation to certification ready for our December test dates. I did manage to sneak out and go to Wurstfest and eat bratwursts and drink german beer early on a Saturday morning. It was a long drive to get there, and I remember spending too much time at a Buccee's on the way back and missing a meeting Sami and I had planned for 4pm in the afternoon.
 
 A crazy coincidence also happened when I went to see Jimmy O Yang's netflix taping in Austin. Sami and I arrived 30 minutes late because of a bug for work, but the show was also delayed, so we got in on time. Our assigned seats just happened to be next to my cousins and their SO's at the paramount theatre. Sami thought we'd planned it, we were all very surprised and amused. 
 
 Sami and I took Thanksgiving night off at a friend's place in Round Rock watching some old-fashioned American football and chicken from HEB. 
 
 ## December
-I signed a new lease in Lamar by my rock climbing gym. I missed a lot of the asian eats from Ktown in LA so I wanted to be closer to some of the pochas that I liked... like SOHA bar. I forgot all about Cyberpunk Edgerunners when I started watching Arcane. I apologize to all the League fans I've offended over the years. 
+I signed a new lease in Lamar by my rock climbing gym. I missed a lot of the asian eats from Ktown in LA so I wanted to be closer to some of the pochas that I liked... like SOHA bar. I forgot all about Cyberpunk Edgerunners when I started watching Arcane. I apologize to all the League fans I've offended over the years.
 
 
 ## Goals and resolutions met
@@ -166,12 +169,12 @@ I was able to climb some v6's this year. I hadn't been able to do that consisten
 I only read 1 book this year. My usual goal is to read 3-4 books a year, but I found my evenings playing Dota2 when I had more than an hour before bed and chess when I had about 30 minutes. I did also subscribe to shounen jump, which to my surprise was only $1.99 a month, and was a much faster way to be in the know about Chainsawman, Jujitsu Kaisen, the Promised Neverland, and Tokyo Ghoul than spending 25 min per episode. I typically read through the chapters in about 3 minutes. Do full manga series count?
 
 ## New Goals for 2023
-- Run a half marathon. (don's oversleep like in 2012)
+- Run a half marathon. (don's accidentally oversleep and miss the race this time)
 - Climb a V7. 
 - Learn a new song on the piano. ( I still only know Wedding Dress by Taeyang )
 - Try wakeboarding (never done it before)
 - Read some more books
-- Write to more friends. I keep buying stationary I do not use. 
+- Write more. (i always say this, but it'll happen this time)
 
 ## Top Songs for 2022
 - I really want to stay at your house, Rosa Walton
@@ -181,6 +184,14 @@ I only read 1 book this year. My usual goal is to read 3-4 books a year, but I f
 - cbb to b sad, IDER
 - Animal Spirits, Vulfpeck
 
+## Predictions for 2023
+- Alcoins will all die. Even if there are a few good projects out there, it is now hard to shake the perception of an industry and tech full of scammers. I think Bitcoin will rise by the end of 2023 as global tensions continue to rise and food scarcity is a topic again. 
+- Nuclear Fusion startups are all the rage on all news channels and magazines in order to assuage doom and gloom and they'll promise a new era of humanity.
+- At the start of 2014, I predicted that if they took Crimea, Russia would be emboldened to take Bulgaria by 2020. I was wrong, instead it was February of 2022, before Russia invaded their own neighbors. I thought they'd be greedier. I think China is inspired and will forcibly take TSMC from Taiwan for its chip manufacturing in 2023, but this will not cause a war. 
+- Continuing my prediction from 2014, I think India's space program will do well and they will announce a manned trip to the moon. 
+- I think by the end of 2023 we will hear more financial worries for Toyota and Honda and the Japanese in general and this will be the start of the EV movement mass produced by South Korea and Vietnam. 
+- Judy Faulkner of EPIC systems turns 80 and announces her retirement and hands the company to her children. 
+- I believe the prolonged "sustainable" war will continue in Ukraine until near elections 2024, so nothing new will happen in 2023. Then we may either hear about double agents in Russia fall off hotel balconies or someone new rise up in power.
 
 
 

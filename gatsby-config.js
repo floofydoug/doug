@@ -4,6 +4,10 @@
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
  */
 
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
@@ -120,6 +124,6 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/profile-pic.png`, // This path is relative to the root of the site.
       },
-    },
+    }
   ],
 }
