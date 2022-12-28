@@ -70,7 +70,7 @@ There was also a wedding back in VA and I had to clean up for a weekend.
 I turned 32 and we celebrated by going out to Seoulju in Austin when I got back. However, celebrations were cut short because the first federal testing for Moyae was early in the morning the next day so I pulled a collegiate all nighter in a mad dash to be ready by 8am the next day. 
 
 ## July
-The accelerator was an 8 week program and Sami had business calls and code to fix everyday. 
+The accelerator was an 8 week program and Sami and I had had business calls and code to fix everyday. We felt obligated to try and video call every investor Amazon had set us up with, even though VC economy was shrinking.
 
 On July 16th, Honey Pig opened its doors in Austin, and I went to the opening week for a cousin's birthday. 
 The owner from Annandale was there! She didn't recognize me, but I'd seen her enough times after college
@@ -155,15 +155,18 @@ A crazy coincidence also happened when I went to see Jimmy O Yang's netflix tapi
 Sami and I took Thanksgiving night off at a friend's place in Round Rock watching some old-fashioned American football and chicken from HEB. 
 
 ## December
-I signed a new lease in Lamar by my rock climbing gym. I missed a lot of the asian eats from Ktown in LA so I wanted to be closer to some of the pochas that I liked... like SOHA bar. I forgot all about Cyberpunk Edgerunners when I started watching Arcane. I apologize to all the League fans I've offended over the years.
+I signed a new lease in Lamar by my rock climbing gym. I missed a lot of the asian eats from Ktown in LA so I wanted to be closer to some of the pochas that I liked... like SOHA Bar. I forgot all about Cyberpunk Edgerunners when I started watching Arcane. I apologize to all the League fans I've offended over the years.
+
+Moyae passed 3/4 major certifications, with the 4th one missed because of a third party vendor that forgot to do an update. We are scheduled for another retest date Jan 3rd, 2023. 
 
 
 ## Goals and resolutions met
 Since we are missing some context from the previous two years, one of my goals was to get stronger. I got back into rock climbing again early in the summer and started weight-lifting again. I was able hit my goal of 3-reps at 135lbs (i weigh 125lbs), but it was tough. Props to everyone who sticks with weight-lifting but it is not nearly as fun as climbing things. 
 
+I was able to climb some v6's this year. I hadn't been able to do that consistently before, however, I think this goal is a little cheated because i suspect the routes here are easier than the ones in LA. 
+
 I hit my goal in chess. By playing each night, I finally got my rank from 1300 to a peak of 1622 on lichess. I still only have two openers, but the King's Gambit is my favorite opener on white. I find the bishop sacrifice to weaken the opponent position so early in the game a fun and defiant move for people around my skill bracket. 
 
-I was able to climb some v6's this year. I hadn't been able to do that consistently before, however, I think this goal is a little cheated because i suspect the routes here are easier than the ones in LA. 
 
 ### Goals missed: 
 I only read 1 book this year. My usual goal is to read 3-4 books a year, but I found my evenings playing Dota2 when I had more than an hour before bed and chess when I had about 30 minutes. I did also subscribe to shounen jump, which to my surprise was only $1.99 a month, and was a much faster way to be in the know about Chainsawman, Jujitsu Kaisen, the Promised Neverland, and Tokyo Ghoul than spending 25 min per episode. I typically read through the chapters in about 3 minutes. Do full manga series count?
@@ -185,7 +188,7 @@ I only read 1 book this year. My usual goal is to read 3-4 books a year, but I f
 - Animal Spirits, Vulfpeck
 
 ## Predictions for 2023
-- Alcoins will all die. Even if there are a few good projects out there, it is now hard to shake the perception of an industry and tech full of scammers. I think Bitcoin will rise by the end of 2023 as global tensions continue to rise and food scarcity is a topic again. 
+- Altcoins will all die. Even if there are a few good projects out there, it is now hard to shake the perception of an industry and tech full of scammers. I think Bitcoin will rise by the end of 2023 as global tensions continue to rise and food scarcity is a topic again. 
 - Nuclear Fusion startups are all the rage on all news channels and magazines in order to assuage doom and gloom and they'll promise a new era of humanity.
 - At the start of 2014, I predicted that if they took Crimea, Russia would be emboldened to take Bulgaria by 2020. I was wrong, instead it was February of 2022, before Russia invaded their own neighbors. I thought they'd be greedier. I think China is inspired and will forcibly take TSMC from Taiwan for its chip manufacturing in 2023, but this will not cause a war. 
 - Continuing my prediction from 2014, I think India's space program will do well and they will announce a manned trip to the moon. 
