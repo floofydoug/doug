@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Doug Phung Blog RSS Feed]]></title><description><![CDATA[This blog is just a collection of year re-caps now.]]></description><link>https://dougphung.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 02 Jan 2024 07:21:47 GMT</lastBuildDate><item><title><![CDATA[Hello 2024]]></title><description><![CDATA[I really do not write in my blog enough. I go about setting this site to be some place I will write my thoughts, but I end up having to…]]></description><link>https://dougphung.com/hello-2024/</link><guid isPermaLink="false">https://dougphung.com/hello-2024/</guid><pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I really do not write in my blog enough. I go about setting this site to be some place I will write my thoughts, but I end up having to completely change up the hosting each year because things get deprecated throughout the year. Dougphung.com was unavailable for half the year because the hosting provider went out of business!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Doug Phung Blog RSS Feed]]></title><description><![CDATA[This blog is just a collection of year re-caps now.]]></description><link>https://dougphung.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 02 Jan 2024 07:50:29 GMT</lastBuildDate><item><title><![CDATA[Hello 2024]]></title><description><![CDATA[I really do not write in my blog enough. I go about setting this site to be some place I will write my thoughts, but I end up having to…]]></description><link>https://dougphung.com/hello-2024/</link><guid isPermaLink="false">https://dougphung.com/hello-2024/</guid><pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I really do not write in my blog enough. I go about setting this site to be some place I will write my thoughts, but I end up having to completely change up the hosting each year because things get deprecated throughout the year. Dougphung.com was unavailable for half the year because the hosting provider went out of business!&lt;/p&gt;
 &lt;h2&gt;January&lt;/h2&gt;
 &lt;p&gt;I started off the new year with a bang. Someone once told me that once an athelete hits their thirties, everyone experiences &quot;The Injury&quot; and its a big deciding factor whether or not they&apos;ll still be active. I managed to dislocate my shoulder pretty bad out in Solitude, Utah while snowboarding. I had a Hill-Sachs lesion and a labral tear from trying to do a jump I had done a couple times already.&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -7,7 +7,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/7d19d005224459d8ccc950b18cc1c9d5/9c9b2/shoulder.jpg&quot;
+    href=&quot;/static/7d19d005224459d8ccc950b18cc1c9d5/9c9b2/shoulder.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -20,13 +20,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;This was about an hour in&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/7d19d005224459d8ccc950b18cc1c9d5/828fb/shoulder.jpg&quot;
-        srcset=&quot;/dougphung.com/static/7d19d005224459d8ccc950b18cc1c9d5/ff44c/shoulder.jpg 158w,
-/dougphung.com/static/7d19d005224459d8ccc950b18cc1c9d5/a6688/shoulder.jpg 315w,
-/dougphung.com/static/7d19d005224459d8ccc950b18cc1c9d5/828fb/shoulder.jpg 630w,
-/dougphung.com/static/7d19d005224459d8ccc950b18cc1c9d5/0ede0/shoulder.jpg 945w,
-/dougphung.com/static/7d19d005224459d8ccc950b18cc1c9d5/3ac88/shoulder.jpg 1260w,
-/dougphung.com/static/7d19d005224459d8ccc950b18cc1c9d5/9c9b2/shoulder.jpg 2268w&quot;
+        src=&quot;/static/7d19d005224459d8ccc950b18cc1c9d5/828fb/shoulder.jpg&quot;
+        srcset=&quot;/static/7d19d005224459d8ccc950b18cc1c9d5/ff44c/shoulder.jpg 158w,
+/static/7d19d005224459d8ccc950b18cc1c9d5/a6688/shoulder.jpg 315w,
+/static/7d19d005224459d8ccc950b18cc1c9d5/828fb/shoulder.jpg 630w,
+/static/7d19d005224459d8ccc950b18cc1c9d5/0ede0/shoulder.jpg 945w,
+/static/7d19d005224459d8ccc950b18cc1c9d5/3ac88/shoulder.jpg 1260w,
+/static/7d19d005224459d8ccc950b18cc1c9d5/9c9b2/shoulder.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -41,7 +41,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/31bc52e517de788727ef9bfe663824f6/d2602/utah.jpg&quot;
+    href=&quot;/static/31bc52e517de788727ef9bfe663824f6/d2602/utah.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -54,13 +54,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;some of the crew&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/31bc52e517de788727ef9bfe663824f6/828fb/utah.jpg&quot;
-        srcset=&quot;/dougphung.com/static/31bc52e517de788727ef9bfe663824f6/ff44c/utah.jpg 158w,
-/dougphung.com/static/31bc52e517de788727ef9bfe663824f6/a6688/utah.jpg 315w,
-/dougphung.com/static/31bc52e517de788727ef9bfe663824f6/828fb/utah.jpg 630w,
-/dougphung.com/static/31bc52e517de788727ef9bfe663824f6/0ede0/utah.jpg 945w,
-/dougphung.com/static/31bc52e517de788727ef9bfe663824f6/3ac88/utah.jpg 1260w,
-/dougphung.com/static/31bc52e517de788727ef9bfe663824f6/d2602/utah.jpg 4032w&quot;
+        src=&quot;/static/31bc52e517de788727ef9bfe663824f6/828fb/utah.jpg&quot;
+        srcset=&quot;/static/31bc52e517de788727ef9bfe663824f6/ff44c/utah.jpg 158w,
+/static/31bc52e517de788727ef9bfe663824f6/a6688/utah.jpg 315w,
+/static/31bc52e517de788727ef9bfe663824f6/828fb/utah.jpg 630w,
+/static/31bc52e517de788727ef9bfe663824f6/0ede0/utah.jpg 945w,
+/static/31bc52e517de788727ef9bfe663824f6/3ac88/utah.jpg 1260w,
+/static/31bc52e517de788727ef9bfe663824f6/d2602/utah.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -82,7 +82,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/46c79bc4d9cbb8805c35c8771a1e1d3d/ff762/race.jpg&quot;
+    href=&quot;/static/46c79bc4d9cbb8805c35c8771a1e1d3d/ff762/race.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -95,13 +95,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;US cheesing with our medals and me after a successful poop&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/46c79bc4d9cbb8805c35c8771a1e1d3d/828fb/race.jpg&quot;
-        srcset=&quot;/dougphung.com/static/46c79bc4d9cbb8805c35c8771a1e1d3d/ff44c/race.jpg 158w,
-/dougphung.com/static/46c79bc4d9cbb8805c35c8771a1e1d3d/a6688/race.jpg 315w,
-/dougphung.com/static/46c79bc4d9cbb8805c35c8771a1e1d3d/828fb/race.jpg 630w,
-/dougphung.com/static/46c79bc4d9cbb8805c35c8771a1e1d3d/0ede0/race.jpg 945w,
-/dougphung.com/static/46c79bc4d9cbb8805c35c8771a1e1d3d/3ac88/race.jpg 1260w,
-/dougphung.com/static/46c79bc4d9cbb8805c35c8771a1e1d3d/ff762/race.jpg 1836w&quot;
+        src=&quot;/static/46c79bc4d9cbb8805c35c8771a1e1d3d/828fb/race.jpg&quot;
+        srcset=&quot;/static/46c79bc4d9cbb8805c35c8771a1e1d3d/ff44c/race.jpg 158w,
+/static/46c79bc4d9cbb8805c35c8771a1e1d3d/a6688/race.jpg 315w,
+/static/46c79bc4d9cbb8805c35c8771a1e1d3d/828fb/race.jpg 630w,
+/static/46c79bc4d9cbb8805c35c8771a1e1d3d/0ede0/race.jpg 945w,
+/static/46c79bc4d9cbb8805c35c8771a1e1d3d/3ac88/race.jpg 1260w,
+/static/46c79bc4d9cbb8805c35c8771a1e1d3d/ff762/race.jpg 1836w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -123,7 +123,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/44042d4abd65e2dfc0c3215354c4ef41/9c9b2/dgon.jpg&quot;
+    href=&quot;/static/44042d4abd65e2dfc0c3215354c4ef41/9c9b2/dgon.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -136,13 +136,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;dgon&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/44042d4abd65e2dfc0c3215354c4ef41/828fb/dgon.jpg&quot;
-        srcset=&quot;/dougphung.com/static/44042d4abd65e2dfc0c3215354c4ef41/ff44c/dgon.jpg 158w,
-/dougphung.com/static/44042d4abd65e2dfc0c3215354c4ef41/a6688/dgon.jpg 315w,
-/dougphung.com/static/44042d4abd65e2dfc0c3215354c4ef41/828fb/dgon.jpg 630w,
-/dougphung.com/static/44042d4abd65e2dfc0c3215354c4ef41/0ede0/dgon.jpg 945w,
-/dougphung.com/static/44042d4abd65e2dfc0c3215354c4ef41/3ac88/dgon.jpg 1260w,
-/dougphung.com/static/44042d4abd65e2dfc0c3215354c4ef41/9c9b2/dgon.jpg 2268w&quot;
+        src=&quot;/static/44042d4abd65e2dfc0c3215354c4ef41/828fb/dgon.jpg&quot;
+        srcset=&quot;/static/44042d4abd65e2dfc0c3215354c4ef41/ff44c/dgon.jpg 158w,
+/static/44042d4abd65e2dfc0c3215354c4ef41/a6688/dgon.jpg 315w,
+/static/44042d4abd65e2dfc0c3215354c4ef41/828fb/dgon.jpg 630w,
+/static/44042d4abd65e2dfc0c3215354c4ef41/0ede0/dgon.jpg 945w,
+/static/44042d4abd65e2dfc0c3215354c4ef41/3ac88/dgon.jpg 1260w,
+/static/44042d4abd65e2dfc0c3215354c4ef41/9c9b2/dgon.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -161,7 +161,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/922d9ffb3b1c1cecd820668e21dacf21/9c9b2/hike.jpg&quot;
+    href=&quot;/static/922d9ffb3b1c1cecd820668e21dacf21/9c9b2/hike.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -174,13 +174,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;hike&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/922d9ffb3b1c1cecd820668e21dacf21/828fb/hike.jpg&quot;
-        srcset=&quot;/dougphung.com/static/922d9ffb3b1c1cecd820668e21dacf21/ff44c/hike.jpg 158w,
-/dougphung.com/static/922d9ffb3b1c1cecd820668e21dacf21/a6688/hike.jpg 315w,
-/dougphung.com/static/922d9ffb3b1c1cecd820668e21dacf21/828fb/hike.jpg 630w,
-/dougphung.com/static/922d9ffb3b1c1cecd820668e21dacf21/0ede0/hike.jpg 945w,
-/dougphung.com/static/922d9ffb3b1c1cecd820668e21dacf21/3ac88/hike.jpg 1260w,
-/dougphung.com/static/922d9ffb3b1c1cecd820668e21dacf21/9c9b2/hike.jpg 2268w&quot;
+        src=&quot;/static/922d9ffb3b1c1cecd820668e21dacf21/828fb/hike.jpg&quot;
+        srcset=&quot;/static/922d9ffb3b1c1cecd820668e21dacf21/ff44c/hike.jpg 158w,
+/static/922d9ffb3b1c1cecd820668e21dacf21/a6688/hike.jpg 315w,
+/static/922d9ffb3b1c1cecd820668e21dacf21/828fb/hike.jpg 630w,
+/static/922d9ffb3b1c1cecd820668e21dacf21/0ede0/hike.jpg 945w,
+/static/922d9ffb3b1c1cecd820668e21dacf21/3ac88/hike.jpg 1260w,
+/static/922d9ffb3b1c1cecd820668e21dacf21/9c9b2/hike.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -206,7 +206,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/df093e654a3630cbe363605e5d198a91/d2602/polaroids.jpg&quot;
+    href=&quot;/static/df093e654a3630cbe363605e5d198a91/d2602/polaroids.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -219,13 +219,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;hike&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/df093e654a3630cbe363605e5d198a91/828fb/polaroids.jpg&quot;
-        srcset=&quot;/dougphung.com/static/df093e654a3630cbe363605e5d198a91/ff44c/polaroids.jpg 158w,
-/dougphung.com/static/df093e654a3630cbe363605e5d198a91/a6688/polaroids.jpg 315w,
-/dougphung.com/static/df093e654a3630cbe363605e5d198a91/828fb/polaroids.jpg 630w,
-/dougphung.com/static/df093e654a3630cbe363605e5d198a91/0ede0/polaroids.jpg 945w,
-/dougphung.com/static/df093e654a3630cbe363605e5d198a91/3ac88/polaroids.jpg 1260w,
-/dougphung.com/static/df093e654a3630cbe363605e5d198a91/d2602/polaroids.jpg 4032w&quot;
+        src=&quot;/static/df093e654a3630cbe363605e5d198a91/828fb/polaroids.jpg&quot;
+        srcset=&quot;/static/df093e654a3630cbe363605e5d198a91/ff44c/polaroids.jpg 158w,
+/static/df093e654a3630cbe363605e5d198a91/a6688/polaroids.jpg 315w,
+/static/df093e654a3630cbe363605e5d198a91/828fb/polaroids.jpg 630w,
+/static/df093e654a3630cbe363605e5d198a91/0ede0/polaroids.jpg 945w,
+/static/df093e654a3630cbe363605e5d198a91/3ac88/polaroids.jpg 1260w,
+/static/df093e654a3630cbe363605e5d198a91/d2602/polaroids.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -244,7 +244,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/312636fb91ee9bc329c9792ef097ab36/71254/wildwood.jpg&quot;
+    href=&quot;/static/312636fb91ee9bc329c9792ef097ab36/71254/wildwood.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -257,13 +257,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;the crew getting breakfast before the games&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/312636fb91ee9bc329c9792ef097ab36/828fb/wildwood.jpg&quot;
-        srcset=&quot;/dougphung.com/static/312636fb91ee9bc329c9792ef097ab36/ff44c/wildwood.jpg 158w,
-/dougphung.com/static/312636fb91ee9bc329c9792ef097ab36/a6688/wildwood.jpg 315w,
-/dougphung.com/static/312636fb91ee9bc329c9792ef097ab36/828fb/wildwood.jpg 630w,
-/dougphung.com/static/312636fb91ee9bc329c9792ef097ab36/0ede0/wildwood.jpg 945w,
-/dougphung.com/static/312636fb91ee9bc329c9792ef097ab36/3ac88/wildwood.jpg 1260w,
-/dougphung.com/static/312636fb91ee9bc329c9792ef097ab36/71254/wildwood.jpg 4080w&quot;
+        src=&quot;/static/312636fb91ee9bc329c9792ef097ab36/828fb/wildwood.jpg&quot;
+        srcset=&quot;/static/312636fb91ee9bc329c9792ef097ab36/ff44c/wildwood.jpg 158w,
+/static/312636fb91ee9bc329c9792ef097ab36/a6688/wildwood.jpg 315w,
+/static/312636fb91ee9bc329c9792ef097ab36/828fb/wildwood.jpg 630w,
+/static/312636fb91ee9bc329c9792ef097ab36/0ede0/wildwood.jpg 945w,
+/static/312636fb91ee9bc329c9792ef097ab36/3ac88/wildwood.jpg 1260w,
+/static/312636fb91ee9bc329c9792ef097ab36/71254/wildwood.jpg 4080w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -283,7 +283,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/ba22f19d446bf06ad834d9b9ef162624/9c9b2/kendra.jpg&quot;
+    href=&quot;/static/ba22f19d446bf06ad834d9b9ef162624/9c9b2/kendra.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -296,13 +296,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Kendra&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/ba22f19d446bf06ad834d9b9ef162624/828fb/kendra.jpg&quot;
-        srcset=&quot;/dougphung.com/static/ba22f19d446bf06ad834d9b9ef162624/ff44c/kendra.jpg 158w,
-/dougphung.com/static/ba22f19d446bf06ad834d9b9ef162624/a6688/kendra.jpg 315w,
-/dougphung.com/static/ba22f19d446bf06ad834d9b9ef162624/828fb/kendra.jpg 630w,
-/dougphung.com/static/ba22f19d446bf06ad834d9b9ef162624/0ede0/kendra.jpg 945w,
-/dougphung.com/static/ba22f19d446bf06ad834d9b9ef162624/3ac88/kendra.jpg 1260w,
-/dougphung.com/static/ba22f19d446bf06ad834d9b9ef162624/9c9b2/kendra.jpg 2268w&quot;
+        src=&quot;/static/ba22f19d446bf06ad834d9b9ef162624/828fb/kendra.jpg&quot;
+        srcset=&quot;/static/ba22f19d446bf06ad834d9b9ef162624/ff44c/kendra.jpg 158w,
+/static/ba22f19d446bf06ad834d9b9ef162624/a6688/kendra.jpg 315w,
+/static/ba22f19d446bf06ad834d9b9ef162624/828fb/kendra.jpg 630w,
+/static/ba22f19d446bf06ad834d9b9ef162624/0ede0/kendra.jpg 945w,
+/static/ba22f19d446bf06ad834d9b9ef162624/3ac88/kendra.jpg 1260w,
+/static/ba22f19d446bf06ad834d9b9ef162624/9c9b2/kendra.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -320,7 +320,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/0ff040c398ed5a851c98b0d4ce7368dc/d2602/church.jpg&quot;
+    href=&quot;/static/0ff040c398ed5a851c98b0d4ce7368dc/d2602/church.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -333,13 +333,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Austin Chinese Church&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/0ff040c398ed5a851c98b0d4ce7368dc/828fb/church.jpg&quot;
-        srcset=&quot;/dougphung.com/static/0ff040c398ed5a851c98b0d4ce7368dc/ff44c/church.jpg 158w,
-/dougphung.com/static/0ff040c398ed5a851c98b0d4ce7368dc/a6688/church.jpg 315w,
-/dougphung.com/static/0ff040c398ed5a851c98b0d4ce7368dc/828fb/church.jpg 630w,
-/dougphung.com/static/0ff040c398ed5a851c98b0d4ce7368dc/0ede0/church.jpg 945w,
-/dougphung.com/static/0ff040c398ed5a851c98b0d4ce7368dc/3ac88/church.jpg 1260w,
-/dougphung.com/static/0ff040c398ed5a851c98b0d4ce7368dc/d2602/church.jpg 4032w&quot;
+        src=&quot;/static/0ff040c398ed5a851c98b0d4ce7368dc/828fb/church.jpg&quot;
+        srcset=&quot;/static/0ff040c398ed5a851c98b0d4ce7368dc/ff44c/church.jpg 158w,
+/static/0ff040c398ed5a851c98b0d4ce7368dc/a6688/church.jpg 315w,
+/static/0ff040c398ed5a851c98b0d4ce7368dc/828fb/church.jpg 630w,
+/static/0ff040c398ed5a851c98b0d4ce7368dc/0ede0/church.jpg 945w,
+/static/0ff040c398ed5a851c98b0d4ce7368dc/3ac88/church.jpg 1260w,
+/static/0ff040c398ed5a851c98b0d4ce7368dc/d2602/church.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -357,7 +357,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/d65abc34ea3cca6980b564681530a6fc/9c9b2/toilet.jpg&quot;
+    href=&quot;/static/d65abc34ea3cca6980b564681530a6fc/9c9b2/toilet.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -370,13 +370,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;toilet&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/d65abc34ea3cca6980b564681530a6fc/828fb/toilet.jpg&quot;
-        srcset=&quot;/dougphung.com/static/d65abc34ea3cca6980b564681530a6fc/ff44c/toilet.jpg 158w,
-/dougphung.com/static/d65abc34ea3cca6980b564681530a6fc/a6688/toilet.jpg 315w,
-/dougphung.com/static/d65abc34ea3cca6980b564681530a6fc/828fb/toilet.jpg 630w,
-/dougphung.com/static/d65abc34ea3cca6980b564681530a6fc/0ede0/toilet.jpg 945w,
-/dougphung.com/static/d65abc34ea3cca6980b564681530a6fc/3ac88/toilet.jpg 1260w,
-/dougphung.com/static/d65abc34ea3cca6980b564681530a6fc/9c9b2/toilet.jpg 2268w&quot;
+        src=&quot;/static/d65abc34ea3cca6980b564681530a6fc/828fb/toilet.jpg&quot;
+        srcset=&quot;/static/d65abc34ea3cca6980b564681530a6fc/ff44c/toilet.jpg 158w,
+/static/d65abc34ea3cca6980b564681530a6fc/a6688/toilet.jpg 315w,
+/static/d65abc34ea3cca6980b564681530a6fc/828fb/toilet.jpg 630w,
+/static/d65abc34ea3cca6980b564681530a6fc/0ede0/toilet.jpg 945w,
+/static/d65abc34ea3cca6980b564681530a6fc/3ac88/toilet.jpg 1260w,
+/static/d65abc34ea3cca6980b564681530a6fc/9c9b2/toilet.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -390,7 +390,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/b7df4205cff1e568c8fdac05410dfe4e/9c9b2/shower.jpg&quot;
+    href=&quot;/static/b7df4205cff1e568c8fdac05410dfe4e/9c9b2/shower.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -403,13 +403,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;shower&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/b7df4205cff1e568c8fdac05410dfe4e/828fb/shower.jpg&quot;
-        srcset=&quot;/dougphung.com/static/b7df4205cff1e568c8fdac05410dfe4e/ff44c/shower.jpg 158w,
-/dougphung.com/static/b7df4205cff1e568c8fdac05410dfe4e/a6688/shower.jpg 315w,
-/dougphung.com/static/b7df4205cff1e568c8fdac05410dfe4e/828fb/shower.jpg 630w,
-/dougphung.com/static/b7df4205cff1e568c8fdac05410dfe4e/0ede0/shower.jpg 945w,
-/dougphung.com/static/b7df4205cff1e568c8fdac05410dfe4e/3ac88/shower.jpg 1260w,
-/dougphung.com/static/b7df4205cff1e568c8fdac05410dfe4e/9c9b2/shower.jpg 2268w&quot;
+        src=&quot;/static/b7df4205cff1e568c8fdac05410dfe4e/828fb/shower.jpg&quot;
+        srcset=&quot;/static/b7df4205cff1e568c8fdac05410dfe4e/ff44c/shower.jpg 158w,
+/static/b7df4205cff1e568c8fdac05410dfe4e/a6688/shower.jpg 315w,
+/static/b7df4205cff1e568c8fdac05410dfe4e/828fb/shower.jpg 630w,
+/static/b7df4205cff1e568c8fdac05410dfe4e/0ede0/shower.jpg 945w,
+/static/b7df4205cff1e568c8fdac05410dfe4e/3ac88/shower.jpg 1260w,
+/static/b7df4205cff1e568c8fdac05410dfe4e/9c9b2/shower.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -429,7 +429,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/cb481b3e0fe52a19c963c2a427768e00/d2602/aao.jpg&quot;
+    href=&quot;/static/cb481b3e0fe52a19c963c2a427768e00/d2602/aao.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -442,13 +442,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;AAO&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/cb481b3e0fe52a19c963c2a427768e00/828fb/aao.jpg&quot;
-        srcset=&quot;/dougphung.com/static/cb481b3e0fe52a19c963c2a427768e00/ff44c/aao.jpg 158w,
-/dougphung.com/static/cb481b3e0fe52a19c963c2a427768e00/a6688/aao.jpg 315w,
-/dougphung.com/static/cb481b3e0fe52a19c963c2a427768e00/828fb/aao.jpg 630w,
-/dougphung.com/static/cb481b3e0fe52a19c963c2a427768e00/0ede0/aao.jpg 945w,
-/dougphung.com/static/cb481b3e0fe52a19c963c2a427768e00/3ac88/aao.jpg 1260w,
-/dougphung.com/static/cb481b3e0fe52a19c963c2a427768e00/d2602/aao.jpg 4032w&quot;
+        src=&quot;/static/cb481b3e0fe52a19c963c2a427768e00/828fb/aao.jpg&quot;
+        srcset=&quot;/static/cb481b3e0fe52a19c963c2a427768e00/ff44c/aao.jpg 158w,
+/static/cb481b3e0fe52a19c963c2a427768e00/a6688/aao.jpg 315w,
+/static/cb481b3e0fe52a19c963c2a427768e00/828fb/aao.jpg 630w,
+/static/cb481b3e0fe52a19c963c2a427768e00/0ede0/aao.jpg 945w,
+/static/cb481b3e0fe52a19c963c2a427768e00/3ac88/aao.jpg 1260w,
+/static/cb481b3e0fe52a19c963c2a427768e00/d2602/aao.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -464,7 +464,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/bbf71307433068ffafd65f769c8656d0/e6b01/cool_crew.jpg&quot;
+    href=&quot;/static/bbf71307433068ffafd65f769c8656d0/e6b01/cool_crew.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -477,13 +477,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;cool-crew&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/bbf71307433068ffafd65f769c8656d0/828fb/cool_crew.jpg&quot;
-        srcset=&quot;/dougphung.com/static/bbf71307433068ffafd65f769c8656d0/ff44c/cool_crew.jpg 158w,
-/dougphung.com/static/bbf71307433068ffafd65f769c8656d0/a6688/cool_crew.jpg 315w,
-/dougphung.com/static/bbf71307433068ffafd65f769c8656d0/828fb/cool_crew.jpg 630w,
-/dougphung.com/static/bbf71307433068ffafd65f769c8656d0/0ede0/cool_crew.jpg 945w,
-/dougphung.com/static/bbf71307433068ffafd65f769c8656d0/3ac88/cool_crew.jpg 1260w,
-/dougphung.com/static/bbf71307433068ffafd65f769c8656d0/e6b01/cool_crew.jpg 3840w&quot;
+        src=&quot;/static/bbf71307433068ffafd65f769c8656d0/828fb/cool_crew.jpg&quot;
+        srcset=&quot;/static/bbf71307433068ffafd65f769c8656d0/ff44c/cool_crew.jpg 158w,
+/static/bbf71307433068ffafd65f769c8656d0/a6688/cool_crew.jpg 315w,
+/static/bbf71307433068ffafd65f769c8656d0/828fb/cool_crew.jpg 630w,
+/static/bbf71307433068ffafd65f769c8656d0/0ede0/cool_crew.jpg 945w,
+/static/bbf71307433068ffafd65f769c8656d0/3ac88/cool_crew.jpg 1260w,
+/static/bbf71307433068ffafd65f769c8656d0/e6b01/cool_crew.jpg 3840w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -499,7 +499,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/7bcecabed3684529a521ea5417e04488/7cc5e/axe.jpg&quot;
+    href=&quot;/static/7bcecabed3684529a521ea5417e04488/7cc5e/axe.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -512,10 +512,10 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;off-handed axe throwing is very difficult&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/7bcecabed3684529a521ea5417e04488/7cc5e/axe.jpg&quot;
-        srcset=&quot;/dougphung.com/static/7bcecabed3684529a521ea5417e04488/ff44c/axe.jpg 158w,
-/dougphung.com/static/7bcecabed3684529a521ea5417e04488/a6688/axe.jpg 315w,
-/dougphung.com/static/7bcecabed3684529a521ea5417e04488/7cc5e/axe.jpg 480w&quot;
+        src=&quot;/static/7bcecabed3684529a521ea5417e04488/7cc5e/axe.jpg&quot;
+        srcset=&quot;/static/7bcecabed3684529a521ea5417e04488/ff44c/axe.jpg 158w,
+/static/7bcecabed3684529a521ea5417e04488/a6688/axe.jpg 315w,
+/static/7bcecabed3684529a521ea5417e04488/7cc5e/axe.jpg 480w&quot;
         sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -536,7 +536,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/000c2ff00e05f5a1d0604725009e5468/d2602/xmas.jpg&quot;
+    href=&quot;/static/000c2ff00e05f5a1d0604725009e5468/d2602/xmas.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -549,13 +549,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;xmas&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/000c2ff00e05f5a1d0604725009e5468/828fb/xmas.jpg&quot;
-        srcset=&quot;/dougphung.com/static/000c2ff00e05f5a1d0604725009e5468/ff44c/xmas.jpg 158w,
-/dougphung.com/static/000c2ff00e05f5a1d0604725009e5468/a6688/xmas.jpg 315w,
-/dougphung.com/static/000c2ff00e05f5a1d0604725009e5468/828fb/xmas.jpg 630w,
-/dougphung.com/static/000c2ff00e05f5a1d0604725009e5468/0ede0/xmas.jpg 945w,
-/dougphung.com/static/000c2ff00e05f5a1d0604725009e5468/3ac88/xmas.jpg 1260w,
-/dougphung.com/static/000c2ff00e05f5a1d0604725009e5468/d2602/xmas.jpg 4032w&quot;
+        src=&quot;/static/000c2ff00e05f5a1d0604725009e5468/828fb/xmas.jpg&quot;
+        srcset=&quot;/static/000c2ff00e05f5a1d0604725009e5468/ff44c/xmas.jpg 158w,
+/static/000c2ff00e05f5a1d0604725009e5468/a6688/xmas.jpg 315w,
+/static/000c2ff00e05f5a1d0604725009e5468/828fb/xmas.jpg 630w,
+/static/000c2ff00e05f5a1d0604725009e5468/0ede0/xmas.jpg 945w,
+/static/000c2ff00e05f5a1d0604725009e5468/3ac88/xmas.jpg 1260w,
+/static/000c2ff00e05f5a1d0604725009e5468/d2602/xmas.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -571,7 +571,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/aca22724af59b847ed2d994f299a1b98/9c9b2/mike.jpg&quot;
+    href=&quot;/static/aca22724af59b847ed2d994f299a1b98/9c9b2/mike.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -584,13 +584,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;mike&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/aca22724af59b847ed2d994f299a1b98/828fb/mike.jpg&quot;
-        srcset=&quot;/dougphung.com/static/aca22724af59b847ed2d994f299a1b98/ff44c/mike.jpg 158w,
-/dougphung.com/static/aca22724af59b847ed2d994f299a1b98/a6688/mike.jpg 315w,
-/dougphung.com/static/aca22724af59b847ed2d994f299a1b98/828fb/mike.jpg 630w,
-/dougphung.com/static/aca22724af59b847ed2d994f299a1b98/0ede0/mike.jpg 945w,
-/dougphung.com/static/aca22724af59b847ed2d994f299a1b98/3ac88/mike.jpg 1260w,
-/dougphung.com/static/aca22724af59b847ed2d994f299a1b98/9c9b2/mike.jpg 2268w&quot;
+        src=&quot;/static/aca22724af59b847ed2d994f299a1b98/828fb/mike.jpg&quot;
+        srcset=&quot;/static/aca22724af59b847ed2d994f299a1b98/ff44c/mike.jpg 158w,
+/static/aca22724af59b847ed2d994f299a1b98/a6688/mike.jpg 315w,
+/static/aca22724af59b847ed2d994f299a1b98/828fb/mike.jpg 630w,
+/static/aca22724af59b847ed2d994f299a1b98/0ede0/mike.jpg 945w,
+/static/aca22724af59b847ed2d994f299a1b98/3ac88/mike.jpg 1260w,
+/static/aca22724af59b847ed2d994f299a1b98/9c9b2/mike.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -616,7 +616,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/7b61465d7841b09caabd62652c2bb573/d2602/copper_mountain.jpg&quot;
+    href=&quot;/static/7b61465d7841b09caabd62652c2bb573/d2602/copper_mountain.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -629,13 +629,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Copper was Beautiful&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/7b61465d7841b09caabd62652c2bb573/828fb/copper_mountain.jpg&quot;
-        srcset=&quot;/dougphung.com/static/7b61465d7841b09caabd62652c2bb573/ff44c/copper_mountain.jpg 158w,
-/dougphung.com/static/7b61465d7841b09caabd62652c2bb573/a6688/copper_mountain.jpg 315w,
-/dougphung.com/static/7b61465d7841b09caabd62652c2bb573/828fb/copper_mountain.jpg 630w,
-/dougphung.com/static/7b61465d7841b09caabd62652c2bb573/0ede0/copper_mountain.jpg 945w,
-/dougphung.com/static/7b61465d7841b09caabd62652c2bb573/3ac88/copper_mountain.jpg 1260w,
-/dougphung.com/static/7b61465d7841b09caabd62652c2bb573/d2602/copper_mountain.jpg 4032w&quot;
+        src=&quot;/static/7b61465d7841b09caabd62652c2bb573/828fb/copper_mountain.jpg&quot;
+        srcset=&quot;/static/7b61465d7841b09caabd62652c2bb573/ff44c/copper_mountain.jpg 158w,
+/static/7b61465d7841b09caabd62652c2bb573/a6688/copper_mountain.jpg 315w,
+/static/7b61465d7841b09caabd62652c2bb573/828fb/copper_mountain.jpg 630w,
+/static/7b61465d7841b09caabd62652c2bb573/0ede0/copper_mountain.jpg 945w,
+/static/7b61465d7841b09caabd62652c2bb573/3ac88/copper_mountain.jpg 1260w,
+/static/7b61465d7841b09caabd62652c2bb573/d2602/copper_mountain.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -651,7 +651,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/2fa62aaffad4d58ba0272eb0b12be810/9c9b2/somebody_feed_phil.jpg&quot;
+    href=&quot;/static/2fa62aaffad4d58ba0272eb0b12be810/9c9b2/somebody_feed_phil.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -664,13 +664,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Phil&amp;#39;s back is to me&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/2fa62aaffad4d58ba0272eb0b12be810/828fb/somebody_feed_phil.jpg&quot;
-        srcset=&quot;/dougphung.com/static/2fa62aaffad4d58ba0272eb0b12be810/ff44c/somebody_feed_phil.jpg 158w,
-/dougphung.com/static/2fa62aaffad4d58ba0272eb0b12be810/a6688/somebody_feed_phil.jpg 315w,
-/dougphung.com/static/2fa62aaffad4d58ba0272eb0b12be810/828fb/somebody_feed_phil.jpg 630w,
-/dougphung.com/static/2fa62aaffad4d58ba0272eb0b12be810/0ede0/somebody_feed_phil.jpg 945w,
-/dougphung.com/static/2fa62aaffad4d58ba0272eb0b12be810/3ac88/somebody_feed_phil.jpg 1260w,
-/dougphung.com/static/2fa62aaffad4d58ba0272eb0b12be810/9c9b2/somebody_feed_phil.jpg 2268w&quot;
+        src=&quot;/static/2fa62aaffad4d58ba0272eb0b12be810/828fb/somebody_feed_phil.jpg&quot;
+        srcset=&quot;/static/2fa62aaffad4d58ba0272eb0b12be810/ff44c/somebody_feed_phil.jpg 158w,
+/static/2fa62aaffad4d58ba0272eb0b12be810/a6688/somebody_feed_phil.jpg 315w,
+/static/2fa62aaffad4d58ba0272eb0b12be810/828fb/somebody_feed_phil.jpg 630w,
+/static/2fa62aaffad4d58ba0272eb0b12be810/0ede0/somebody_feed_phil.jpg 945w,
+/static/2fa62aaffad4d58ba0272eb0b12be810/3ac88/somebody_feed_phil.jpg 1260w,
+/static/2fa62aaffad4d58ba0272eb0b12be810/9c9b2/somebody_feed_phil.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -687,7 +687,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/523840c81ada0203a547386eb8a01de1/9c9b2/ripped_pants.jpg&quot;
+    href=&quot;/static/523840c81ada0203a547386eb8a01de1/9c9b2/ripped_pants.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -700,13 +700,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;My shame for the world to see&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/523840c81ada0203a547386eb8a01de1/828fb/ripped_pants.jpg&quot;
-        srcset=&quot;/dougphung.com/static/523840c81ada0203a547386eb8a01de1/ff44c/ripped_pants.jpg 158w,
-/dougphung.com/static/523840c81ada0203a547386eb8a01de1/a6688/ripped_pants.jpg 315w,
-/dougphung.com/static/523840c81ada0203a547386eb8a01de1/828fb/ripped_pants.jpg 630w,
-/dougphung.com/static/523840c81ada0203a547386eb8a01de1/0ede0/ripped_pants.jpg 945w,
-/dougphung.com/static/523840c81ada0203a547386eb8a01de1/3ac88/ripped_pants.jpg 1260w,
-/dougphung.com/static/523840c81ada0203a547386eb8a01de1/9c9b2/ripped_pants.jpg 2268w&quot;
+        src=&quot;/static/523840c81ada0203a547386eb8a01de1/828fb/ripped_pants.jpg&quot;
+        srcset=&quot;/static/523840c81ada0203a547386eb8a01de1/ff44c/ripped_pants.jpg 158w,
+/static/523840c81ada0203a547386eb8a01de1/a6688/ripped_pants.jpg 315w,
+/static/523840c81ada0203a547386eb8a01de1/828fb/ripped_pants.jpg 630w,
+/static/523840c81ada0203a547386eb8a01de1/0ede0/ripped_pants.jpg 945w,
+/static/523840c81ada0203a547386eb8a01de1/3ac88/ripped_pants.jpg 1260w,
+/static/523840c81ada0203a547386eb8a01de1/9c9b2/ripped_pants.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -723,7 +723,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/9eed7578fc155e7244ab6a56b3820f2d/9c9b2/moyae_graffiti.jpg&quot;
+    href=&quot;/static/9eed7578fc155e7244ab6a56b3820f2d/9c9b2/moyae_graffiti.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -736,13 +736,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Moyae Graffiti&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/9eed7578fc155e7244ab6a56b3820f2d/828fb/moyae_graffiti.jpg&quot;
-        srcset=&quot;/dougphung.com/static/9eed7578fc155e7244ab6a56b3820f2d/ff44c/moyae_graffiti.jpg 158w,
-/dougphung.com/static/9eed7578fc155e7244ab6a56b3820f2d/a6688/moyae_graffiti.jpg 315w,
-/dougphung.com/static/9eed7578fc155e7244ab6a56b3820f2d/828fb/moyae_graffiti.jpg 630w,
-/dougphung.com/static/9eed7578fc155e7244ab6a56b3820f2d/0ede0/moyae_graffiti.jpg 945w,
-/dougphung.com/static/9eed7578fc155e7244ab6a56b3820f2d/3ac88/moyae_graffiti.jpg 1260w,
-/dougphung.com/static/9eed7578fc155e7244ab6a56b3820f2d/9c9b2/moyae_graffiti.jpg 2268w&quot;
+        src=&quot;/static/9eed7578fc155e7244ab6a56b3820f2d/828fb/moyae_graffiti.jpg&quot;
+        srcset=&quot;/static/9eed7578fc155e7244ab6a56b3820f2d/ff44c/moyae_graffiti.jpg 158w,
+/static/9eed7578fc155e7244ab6a56b3820f2d/a6688/moyae_graffiti.jpg 315w,
+/static/9eed7578fc155e7244ab6a56b3820f2d/828fb/moyae_graffiti.jpg 630w,
+/static/9eed7578fc155e7244ab6a56b3820f2d/0ede0/moyae_graffiti.jpg 945w,
+/static/9eed7578fc155e7244ab6a56b3820f2d/3ac88/moyae_graffiti.jpg 1260w,
+/static/9eed7578fc155e7244ab6a56b3820f2d/9c9b2/moyae_graffiti.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -760,7 +760,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/fff4313eb3a75dea449b3713fd0b6df8/768c6/caboose_merrifield.jpg&quot;
+    href=&quot;/static/fff4313eb3a75dea449b3713fd0b6df8/768c6/caboose_merrifield.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -773,13 +773,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;merrifield_hangout&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/fff4313eb3a75dea449b3713fd0b6df8/828fb/caboose_merrifield.jpg&quot;
-        srcset=&quot;/dougphung.com/static/fff4313eb3a75dea449b3713fd0b6df8/ff44c/caboose_merrifield.jpg 158w,
-/dougphung.com/static/fff4313eb3a75dea449b3713fd0b6df8/a6688/caboose_merrifield.jpg 315w,
-/dougphung.com/static/fff4313eb3a75dea449b3713fd0b6df8/828fb/caboose_merrifield.jpg 630w,
-/dougphung.com/static/fff4313eb3a75dea449b3713fd0b6df8/0ede0/caboose_merrifield.jpg 945w,
-/dougphung.com/static/fff4313eb3a75dea449b3713fd0b6df8/3ac88/caboose_merrifield.jpg 1260w,
-/dougphung.com/static/fff4313eb3a75dea449b3713fd0b6df8/768c6/caboose_merrifield.jpg 3264w&quot;
+        src=&quot;/static/fff4313eb3a75dea449b3713fd0b6df8/828fb/caboose_merrifield.jpg&quot;
+        srcset=&quot;/static/fff4313eb3a75dea449b3713fd0b6df8/ff44c/caboose_merrifield.jpg 158w,
+/static/fff4313eb3a75dea449b3713fd0b6df8/a6688/caboose_merrifield.jpg 315w,
+/static/fff4313eb3a75dea449b3713fd0b6df8/828fb/caboose_merrifield.jpg 630w,
+/static/fff4313eb3a75dea449b3713fd0b6df8/0ede0/caboose_merrifield.jpg 945w,
+/static/fff4313eb3a75dea449b3713fd0b6df8/3ac88/caboose_merrifield.jpg 1260w,
+/static/fff4313eb3a75dea449b3713fd0b6df8/768c6/caboose_merrifield.jpg 3264w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -795,7 +795,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/d3f9293584b0fc76d604c32f82e04efe/d2602/museum_of_ice_cream.jpg&quot;
+    href=&quot;/static/d3f9293584b0fc76d604c32f82e04efe/d2602/museum_of_ice_cream.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -808,13 +808,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;museum_of_ice_cream&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/d3f9293584b0fc76d604c32f82e04efe/828fb/museum_of_ice_cream.jpg&quot;
-        srcset=&quot;/dougphung.com/static/d3f9293584b0fc76d604c32f82e04efe/ff44c/museum_of_ice_cream.jpg 158w,
-/dougphung.com/static/d3f9293584b0fc76d604c32f82e04efe/a6688/museum_of_ice_cream.jpg 315w,
-/dougphung.com/static/d3f9293584b0fc76d604c32f82e04efe/828fb/museum_of_ice_cream.jpg 630w,
-/dougphung.com/static/d3f9293584b0fc76d604c32f82e04efe/0ede0/museum_of_ice_cream.jpg 945w,
-/dougphung.com/static/d3f9293584b0fc76d604c32f82e04efe/3ac88/museum_of_ice_cream.jpg 1260w,
-/dougphung.com/static/d3f9293584b0fc76d604c32f82e04efe/d2602/museum_of_ice_cream.jpg 4032w&quot;
+        src=&quot;/static/d3f9293584b0fc76d604c32f82e04efe/828fb/museum_of_ice_cream.jpg&quot;
+        srcset=&quot;/static/d3f9293584b0fc76d604c32f82e04efe/ff44c/museum_of_ice_cream.jpg 158w,
+/static/d3f9293584b0fc76d604c32f82e04efe/a6688/museum_of_ice_cream.jpg 315w,
+/static/d3f9293584b0fc76d604c32f82e04efe/828fb/museum_of_ice_cream.jpg 630w,
+/static/d3f9293584b0fc76d604c32f82e04efe/0ede0/museum_of_ice_cream.jpg 945w,
+/static/d3f9293584b0fc76d604c32f82e04efe/3ac88/museum_of_ice_cream.jpg 1260w,
+/static/d3f9293584b0fc76d604c32f82e04efe/d2602/museum_of_ice_cream.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -834,7 +834,7 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/05583139186a262b0f5466070123b2da/d2602/Bezos_balls.jpg&quot;
+    href=&quot;/static/05583139186a262b0f5466070123b2da/d2602/Bezos_balls.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -847,13 +847,13 @@ This picture is actually from July when my cousin Stephen gave me the Vaporeon p
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Jeffs_balls&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/05583139186a262b0f5466070123b2da/828fb/Bezos_balls.jpg&quot;
-        srcset=&quot;/dougphung.com/static/05583139186a262b0f5466070123b2da/ff44c/Bezos_balls.jpg 158w,
-/dougphung.com/static/05583139186a262b0f5466070123b2da/a6688/Bezos_balls.jpg 315w,
-/dougphung.com/static/05583139186a262b0f5466070123b2da/828fb/Bezos_balls.jpg 630w,
-/dougphung.com/static/05583139186a262b0f5466070123b2da/0ede0/Bezos_balls.jpg 945w,
-/dougphung.com/static/05583139186a262b0f5466070123b2da/3ac88/Bezos_balls.jpg 1260w,
-/dougphung.com/static/05583139186a262b0f5466070123b2da/d2602/Bezos_balls.jpg 4032w&quot;
+        src=&quot;/static/05583139186a262b0f5466070123b2da/828fb/Bezos_balls.jpg&quot;
+        srcset=&quot;/static/05583139186a262b0f5466070123b2da/ff44c/Bezos_balls.jpg 158w,
+/static/05583139186a262b0f5466070123b2da/a6688/Bezos_balls.jpg 315w,
+/static/05583139186a262b0f5466070123b2da/828fb/Bezos_balls.jpg 630w,
+/static/05583139186a262b0f5466070123b2da/0ede0/Bezos_balls.jpg 945w,
+/static/05583139186a262b0f5466070123b2da/3ac88/Bezos_balls.jpg 1260w,
+/static/05583139186a262b0f5466070123b2da/d2602/Bezos_balls.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -874,7 +874,7 @@ The owner from Annandale was there! She didn&apos;t recognize me, but I&apos;d s
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/35606fc018d58add9f38079e8fec87f1/e952e/honey_pig.jpg&quot;
+    href=&quot;/static/35606fc018d58add9f38079e8fec87f1/e952e/honey_pig.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -887,13 +887,13 @@ The owner from Annandale was there! She didn&apos;t recognize me, but I&apos;d s
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;honey_pig&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/35606fc018d58add9f38079e8fec87f1/828fb/honey_pig.jpg&quot;
-        srcset=&quot;/dougphung.com/static/35606fc018d58add9f38079e8fec87f1/ff44c/honey_pig.jpg 158w,
-/dougphung.com/static/35606fc018d58add9f38079e8fec87f1/a6688/honey_pig.jpg 315w,
-/dougphung.com/static/35606fc018d58add9f38079e8fec87f1/828fb/honey_pig.jpg 630w,
-/dougphung.com/static/35606fc018d58add9f38079e8fec87f1/0ede0/honey_pig.jpg 945w,
-/dougphung.com/static/35606fc018d58add9f38079e8fec87f1/3ac88/honey_pig.jpg 1260w,
-/dougphung.com/static/35606fc018d58add9f38079e8fec87f1/e952e/honey_pig.jpg 2233w&quot;
+        src=&quot;/static/35606fc018d58add9f38079e8fec87f1/828fb/honey_pig.jpg&quot;
+        srcset=&quot;/static/35606fc018d58add9f38079e8fec87f1/ff44c/honey_pig.jpg 158w,
+/static/35606fc018d58add9f38079e8fec87f1/a6688/honey_pig.jpg 315w,
+/static/35606fc018d58add9f38079e8fec87f1/828fb/honey_pig.jpg 630w,
+/static/35606fc018d58add9f38079e8fec87f1/0ede0/honey_pig.jpg 945w,
+/static/35606fc018d58add9f38079e8fec87f1/3ac88/honey_pig.jpg 1260w,
+/static/35606fc018d58add9f38079e8fec87f1/e952e/honey_pig.jpg 2233w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -911,7 +911,7 @@ The owner from Annandale was there! She didn&apos;t recognize me, but I&apos;d s
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/4c9e1404cb83c3a8cdc86150c64e7d54/9c9b2/dennis2022.jpg&quot;
+    href=&quot;/static/4c9e1404cb83c3a8cdc86150c64e7d54/9c9b2/dennis2022.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -924,13 +924,13 @@ The owner from Annandale was there! She didn&apos;t recognize me, but I&apos;d s
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;dennis&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/4c9e1404cb83c3a8cdc86150c64e7d54/828fb/dennis2022.jpg&quot;
-        srcset=&quot;/dougphung.com/static/4c9e1404cb83c3a8cdc86150c64e7d54/ff44c/dennis2022.jpg 158w,
-/dougphung.com/static/4c9e1404cb83c3a8cdc86150c64e7d54/a6688/dennis2022.jpg 315w,
-/dougphung.com/static/4c9e1404cb83c3a8cdc86150c64e7d54/828fb/dennis2022.jpg 630w,
-/dougphung.com/static/4c9e1404cb83c3a8cdc86150c64e7d54/0ede0/dennis2022.jpg 945w,
-/dougphung.com/static/4c9e1404cb83c3a8cdc86150c64e7d54/3ac88/dennis2022.jpg 1260w,
-/dougphung.com/static/4c9e1404cb83c3a8cdc86150c64e7d54/9c9b2/dennis2022.jpg 2268w&quot;
+        src=&quot;/static/4c9e1404cb83c3a8cdc86150c64e7d54/828fb/dennis2022.jpg&quot;
+        srcset=&quot;/static/4c9e1404cb83c3a8cdc86150c64e7d54/ff44c/dennis2022.jpg 158w,
+/static/4c9e1404cb83c3a8cdc86150c64e7d54/a6688/dennis2022.jpg 315w,
+/static/4c9e1404cb83c3a8cdc86150c64e7d54/828fb/dennis2022.jpg 630w,
+/static/4c9e1404cb83c3a8cdc86150c64e7d54/0ede0/dennis2022.jpg 945w,
+/static/4c9e1404cb83c3a8cdc86150c64e7d54/3ac88/dennis2022.jpg 1260w,
+/static/4c9e1404cb83c3a8cdc86150c64e7d54/9c9b2/dennis2022.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -946,7 +946,7 @@ oh. typical dennis. He&apos;s trying to convince me he won the bet that aliens w
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/caa7bccea2a0ad843c2a4e156cd54f1b/9c9b2/wildwood2022.jpg&quot;
+    href=&quot;/static/caa7bccea2a0ad843c2a4e156cd54f1b/9c9b2/wildwood2022.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -959,13 +959,13 @@ oh. typical dennis. He&apos;s trying to convince me he won the bet that aliens w
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;wildwood&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/caa7bccea2a0ad843c2a4e156cd54f1b/828fb/wildwood2022.jpg&quot;
-        srcset=&quot;/dougphung.com/static/caa7bccea2a0ad843c2a4e156cd54f1b/ff44c/wildwood2022.jpg 158w,
-/dougphung.com/static/caa7bccea2a0ad843c2a4e156cd54f1b/a6688/wildwood2022.jpg 315w,
-/dougphung.com/static/caa7bccea2a0ad843c2a4e156cd54f1b/828fb/wildwood2022.jpg 630w,
-/dougphung.com/static/caa7bccea2a0ad843c2a4e156cd54f1b/0ede0/wildwood2022.jpg 945w,
-/dougphung.com/static/caa7bccea2a0ad843c2a4e156cd54f1b/3ac88/wildwood2022.jpg 1260w,
-/dougphung.com/static/caa7bccea2a0ad843c2a4e156cd54f1b/9c9b2/wildwood2022.jpg 2268w&quot;
+        src=&quot;/static/caa7bccea2a0ad843c2a4e156cd54f1b/828fb/wildwood2022.jpg&quot;
+        srcset=&quot;/static/caa7bccea2a0ad843c2a4e156cd54f1b/ff44c/wildwood2022.jpg 158w,
+/static/caa7bccea2a0ad843c2a4e156cd54f1b/a6688/wildwood2022.jpg 315w,
+/static/caa7bccea2a0ad843c2a4e156cd54f1b/828fb/wildwood2022.jpg 630w,
+/static/caa7bccea2a0ad843c2a4e156cd54f1b/0ede0/wildwood2022.jpg 945w,
+/static/caa7bccea2a0ad843c2a4e156cd54f1b/3ac88/wildwood2022.jpg 1260w,
+/static/caa7bccea2a0ad843c2a4e156cd54f1b/9c9b2/wildwood2022.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -986,7 +986,7 @@ oh. typical dennis. He&apos;s trying to convince me he won the bet that aliens w
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/5e6fa9517173c3ef65ac4ab9f1691191/ff762/alex_and_me.jpg&quot;
+    href=&quot;/static/5e6fa9517173c3ef65ac4ab9f1691191/ff762/alex_and_me.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -999,13 +999,13 @@ oh. typical dennis. He&apos;s trying to convince me he won the bet that aliens w
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;alex_and_me&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/5e6fa9517173c3ef65ac4ab9f1691191/828fb/alex_and_me.jpg&quot;
-        srcset=&quot;/dougphung.com/static/5e6fa9517173c3ef65ac4ab9f1691191/ff44c/alex_and_me.jpg 158w,
-/dougphung.com/static/5e6fa9517173c3ef65ac4ab9f1691191/a6688/alex_and_me.jpg 315w,
-/dougphung.com/static/5e6fa9517173c3ef65ac4ab9f1691191/828fb/alex_and_me.jpg 630w,
-/dougphung.com/static/5e6fa9517173c3ef65ac4ab9f1691191/0ede0/alex_and_me.jpg 945w,
-/dougphung.com/static/5e6fa9517173c3ef65ac4ab9f1691191/3ac88/alex_and_me.jpg 1260w,
-/dougphung.com/static/5e6fa9517173c3ef65ac4ab9f1691191/ff762/alex_and_me.jpg 1836w&quot;
+        src=&quot;/static/5e6fa9517173c3ef65ac4ab9f1691191/828fb/alex_and_me.jpg&quot;
+        srcset=&quot;/static/5e6fa9517173c3ef65ac4ab9f1691191/ff44c/alex_and_me.jpg 158w,
+/static/5e6fa9517173c3ef65ac4ab9f1691191/a6688/alex_and_me.jpg 315w,
+/static/5e6fa9517173c3ef65ac4ab9f1691191/828fb/alex_and_me.jpg 630w,
+/static/5e6fa9517173c3ef65ac4ab9f1691191/0ede0/alex_and_me.jpg 945w,
+/static/5e6fa9517173c3ef65ac4ab9f1691191/3ac88/alex_and_me.jpg 1260w,
+/static/5e6fa9517173c3ef65ac4ab9f1691191/ff762/alex_and_me.jpg 1836w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1022,7 +1022,7 @@ oh. typical dennis. He&apos;s trying to convince me he won the bet that aliens w
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/d8356fa689ba751f191e8fa221018820/9c9b2/brothers_cousins_with_sarah.jpg&quot;
+    href=&quot;/static/d8356fa689ba751f191e8fa221018820/9c9b2/brothers_cousins_with_sarah.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1035,13 +1035,13 @@ oh. typical dennis. He&apos;s trying to convince me he won the bet that aliens w
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;brothers_cousins_with_sarah&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/d8356fa689ba751f191e8fa221018820/828fb/brothers_cousins_with_sarah.jpg&quot;
-        srcset=&quot;/dougphung.com/static/d8356fa689ba751f191e8fa221018820/ff44c/brothers_cousins_with_sarah.jpg 158w,
-/dougphung.com/static/d8356fa689ba751f191e8fa221018820/a6688/brothers_cousins_with_sarah.jpg 315w,
-/dougphung.com/static/d8356fa689ba751f191e8fa221018820/828fb/brothers_cousins_with_sarah.jpg 630w,
-/dougphung.com/static/d8356fa689ba751f191e8fa221018820/0ede0/brothers_cousins_with_sarah.jpg 945w,
-/dougphung.com/static/d8356fa689ba751f191e8fa221018820/3ac88/brothers_cousins_with_sarah.jpg 1260w,
-/dougphung.com/static/d8356fa689ba751f191e8fa221018820/9c9b2/brothers_cousins_with_sarah.jpg 2268w&quot;
+        src=&quot;/static/d8356fa689ba751f191e8fa221018820/828fb/brothers_cousins_with_sarah.jpg&quot;
+        srcset=&quot;/static/d8356fa689ba751f191e8fa221018820/ff44c/brothers_cousins_with_sarah.jpg 158w,
+/static/d8356fa689ba751f191e8fa221018820/a6688/brothers_cousins_with_sarah.jpg 315w,
+/static/d8356fa689ba751f191e8fa221018820/828fb/brothers_cousins_with_sarah.jpg 630w,
+/static/d8356fa689ba751f191e8fa221018820/0ede0/brothers_cousins_with_sarah.jpg 945w,
+/static/d8356fa689ba751f191e8fa221018820/3ac88/brothers_cousins_with_sarah.jpg 1260w,
+/static/d8356fa689ba751f191e8fa221018820/9c9b2/brothers_cousins_with_sarah.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1056,7 +1056,7 @@ I missed these tacos and Sarah is the best host. She drove me around all weekend
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/49c15b09ea3594a7a5a48a73536d905b/9c9b2/yung_bae.jpg&quot;
+    href=&quot;/static/49c15b09ea3594a7a5a48a73536d905b/9c9b2/yung_bae.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1069,13 +1069,13 @@ I missed these tacos and Sarah is the best host. She drove me around all weekend
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;yung_bae&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/49c15b09ea3594a7a5a48a73536d905b/828fb/yung_bae.jpg&quot;
-        srcset=&quot;/dougphung.com/static/49c15b09ea3594a7a5a48a73536d905b/ff44c/yung_bae.jpg 158w,
-/dougphung.com/static/49c15b09ea3594a7a5a48a73536d905b/a6688/yung_bae.jpg 315w,
-/dougphung.com/static/49c15b09ea3594a7a5a48a73536d905b/828fb/yung_bae.jpg 630w,
-/dougphung.com/static/49c15b09ea3594a7a5a48a73536d905b/0ede0/yung_bae.jpg 945w,
-/dougphung.com/static/49c15b09ea3594a7a5a48a73536d905b/3ac88/yung_bae.jpg 1260w,
-/dougphung.com/static/49c15b09ea3594a7a5a48a73536d905b/9c9b2/yung_bae.jpg 2268w&quot;
+        src=&quot;/static/49c15b09ea3594a7a5a48a73536d905b/828fb/yung_bae.jpg&quot;
+        srcset=&quot;/static/49c15b09ea3594a7a5a48a73536d905b/ff44c/yung_bae.jpg 158w,
+/static/49c15b09ea3594a7a5a48a73536d905b/a6688/yung_bae.jpg 315w,
+/static/49c15b09ea3594a7a5a48a73536d905b/828fb/yung_bae.jpg 630w,
+/static/49c15b09ea3594a7a5a48a73536d905b/0ede0/yung_bae.jpg 945w,
+/static/49c15b09ea3594a7a5a48a73536d905b/3ac88/yung_bae.jpg 1260w,
+/static/49c15b09ea3594a7a5a48a73536d905b/9c9b2/yung_bae.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1091,7 +1091,7 @@ I missed these tacos and Sarah is the best host. She drove me around all weekend
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/c4cf6e7efe97af2aeea35f6bb82357cb/d2602/the_aftermath.jpg&quot;
+    href=&quot;/static/c4cf6e7efe97af2aeea35f6bb82357cb/d2602/the_aftermath.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1104,13 +1104,13 @@ I missed these tacos and Sarah is the best host. She drove me around all weekend
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;the_aftermath&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/c4cf6e7efe97af2aeea35f6bb82357cb/828fb/the_aftermath.jpg&quot;
-        srcset=&quot;/dougphung.com/static/c4cf6e7efe97af2aeea35f6bb82357cb/ff44c/the_aftermath.jpg 158w,
-/dougphung.com/static/c4cf6e7efe97af2aeea35f6bb82357cb/a6688/the_aftermath.jpg 315w,
-/dougphung.com/static/c4cf6e7efe97af2aeea35f6bb82357cb/828fb/the_aftermath.jpg 630w,
-/dougphung.com/static/c4cf6e7efe97af2aeea35f6bb82357cb/0ede0/the_aftermath.jpg 945w,
-/dougphung.com/static/c4cf6e7efe97af2aeea35f6bb82357cb/3ac88/the_aftermath.jpg 1260w,
-/dougphung.com/static/c4cf6e7efe97af2aeea35f6bb82357cb/d2602/the_aftermath.jpg 4032w&quot;
+        src=&quot;/static/c4cf6e7efe97af2aeea35f6bb82357cb/828fb/the_aftermath.jpg&quot;
+        srcset=&quot;/static/c4cf6e7efe97af2aeea35f6bb82357cb/ff44c/the_aftermath.jpg 158w,
+/static/c4cf6e7efe97af2aeea35f6bb82357cb/a6688/the_aftermath.jpg 315w,
+/static/c4cf6e7efe97af2aeea35f6bb82357cb/828fb/the_aftermath.jpg 630w,
+/static/c4cf6e7efe97af2aeea35f6bb82357cb/0ede0/the_aftermath.jpg 945w,
+/static/c4cf6e7efe97af2aeea35f6bb82357cb/3ac88/the_aftermath.jpg 1260w,
+/static/c4cf6e7efe97af2aeea35f6bb82357cb/d2602/the_aftermath.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1125,7 +1125,7 @@ The printer had no chance.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/90978838bb4ff878c93b96850a59588a/d2602/the_perps.jpg&quot;
+    href=&quot;/static/90978838bb4ff878c93b96850a59588a/d2602/the_perps.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1138,13 +1138,13 @@ The printer had no chance.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;the_perps&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/90978838bb4ff878c93b96850a59588a/828fb/the_perps.jpg&quot;
-        srcset=&quot;/dougphung.com/static/90978838bb4ff878c93b96850a59588a/ff44c/the_perps.jpg 158w,
-/dougphung.com/static/90978838bb4ff878c93b96850a59588a/a6688/the_perps.jpg 315w,
-/dougphung.com/static/90978838bb4ff878c93b96850a59588a/828fb/the_perps.jpg 630w,
-/dougphung.com/static/90978838bb4ff878c93b96850a59588a/0ede0/the_perps.jpg 945w,
-/dougphung.com/static/90978838bb4ff878c93b96850a59588a/3ac88/the_perps.jpg 1260w,
-/dougphung.com/static/90978838bb4ff878c93b96850a59588a/d2602/the_perps.jpg 4032w&quot;
+        src=&quot;/static/90978838bb4ff878c93b96850a59588a/828fb/the_perps.jpg&quot;
+        srcset=&quot;/static/90978838bb4ff878c93b96850a59588a/ff44c/the_perps.jpg 158w,
+/static/90978838bb4ff878c93b96850a59588a/a6688/the_perps.jpg 315w,
+/static/90978838bb4ff878c93b96850a59588a/828fb/the_perps.jpg 630w,
+/static/90978838bb4ff878c93b96850a59588a/0ede0/the_perps.jpg 945w,
+/static/90978838bb4ff878c93b96850a59588a/3ac88/the_perps.jpg 1260w,
+/static/90978838bb4ff878c93b96850a59588a/d2602/the_perps.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1160,7 +1160,7 @@ Against these guys.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/d6a9ce93827c1a32c323ef9c205e9456/9c9b2/chicago.jpg&quot;
+    href=&quot;/static/d6a9ce93827c1a32c323ef9c205e9456/9c9b2/chicago.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1173,13 +1173,13 @@ Against these guys.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;chicago&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/d6a9ce93827c1a32c323ef9c205e9456/828fb/chicago.jpg&quot;
-        srcset=&quot;/dougphung.com/static/d6a9ce93827c1a32c323ef9c205e9456/ff44c/chicago.jpg 158w,
-/dougphung.com/static/d6a9ce93827c1a32c323ef9c205e9456/a6688/chicago.jpg 315w,
-/dougphung.com/static/d6a9ce93827c1a32c323ef9c205e9456/828fb/chicago.jpg 630w,
-/dougphung.com/static/d6a9ce93827c1a32c323ef9c205e9456/0ede0/chicago.jpg 945w,
-/dougphung.com/static/d6a9ce93827c1a32c323ef9c205e9456/3ac88/chicago.jpg 1260w,
-/dougphung.com/static/d6a9ce93827c1a32c323ef9c205e9456/9c9b2/chicago.jpg 2268w&quot;
+        src=&quot;/static/d6a9ce93827c1a32c323ef9c205e9456/828fb/chicago.jpg&quot;
+        srcset=&quot;/static/d6a9ce93827c1a32c323ef9c205e9456/ff44c/chicago.jpg 158w,
+/static/d6a9ce93827c1a32c323ef9c205e9456/a6688/chicago.jpg 315w,
+/static/d6a9ce93827c1a32c323ef9c205e9456/828fb/chicago.jpg 630w,
+/static/d6a9ce93827c1a32c323ef9c205e9456/0ede0/chicago.jpg 945w,
+/static/d6a9ce93827c1a32c323ef9c205e9456/3ac88/chicago.jpg 1260w,
+/static/d6a9ce93827c1a32c323ef9c205e9456/9c9b2/chicago.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1194,7 +1194,7 @@ Here is a bean.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/d2602/aao.jpg&quot;
+    href=&quot;/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/d2602/aao.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1207,13 +1207,13 @@ Here is a bean.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;aao&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/828fb/aao.jpg&quot;
-        srcset=&quot;/dougphung.com/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/ff44c/aao.jpg 158w,
-/dougphung.com/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/a6688/aao.jpg 315w,
-/dougphung.com/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/828fb/aao.jpg 630w,
-/dougphung.com/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/0ede0/aao.jpg 945w,
-/dougphung.com/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/3ac88/aao.jpg 1260w,
-/dougphung.com/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/d2602/aao.jpg 4032w&quot;
+        src=&quot;/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/828fb/aao.jpg&quot;
+        srcset=&quot;/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/ff44c/aao.jpg 158w,
+/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/a6688/aao.jpg 315w,
+/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/828fb/aao.jpg 630w,
+/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/0ede0/aao.jpg 945w,
+/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/3ac88/aao.jpg 1260w,
+/static/7a3b2b0b2e028a7c6fdcdc5d8662b2c8/d2602/aao.jpg 4032w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1231,7 +1231,7 @@ And this is what an eye doctor&apos;s dealers room looks like. I&apos;d only eve
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/dougphung.com/static/b12809d41fd3173c13c466507689c27a/9c9b2/goodboi.jpg&quot;
+    href=&quot;/static/b12809d41fd3173c13c466507689c27a/9c9b2/goodboi.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1244,13 +1244,13 @@ And this is what an eye doctor&apos;s dealers room looks like. I&apos;d only eve
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;goodboi&quot;
         title=&quot;&quot;
-        src=&quot;/dougphung.com/static/b12809d41fd3173c13c466507689c27a/828fb/goodboi.jpg&quot;
-        srcset=&quot;/dougphung.com/static/b12809d41fd3173c13c466507689c27a/ff44c/goodboi.jpg 158w,
-/dougphung.com/static/b12809d41fd3173c13c466507689c27a/a6688/goodboi.jpg 315w,
-/dougphung.com/static/b12809d41fd3173c13c466507689c27a/828fb/goodboi.jpg 630w,
-/dougphung.com/static/b12809d41fd3173c13c466507689c27a/0ede0/goodboi.jpg 945w,
-/dougphung.com/static/b12809d41fd3173c13c466507689c27a/3ac88/goodboi.jpg 1260w,
-/dougphung.com/static/b12809d41fd3173c13c466507689c27a/9c9b2/goodboi.jpg 2268w&quot;
+        src=&quot;/static/b12809d41fd3173c13c466507689c27a/828fb/goodboi.jpg&quot;
+        srcset=&quot;/static/b12809d41fd3173c13c466507689c27a/ff44c/goodboi.jpg 158w,
+/static/b12809d41fd3173c13c466507689c27a/a6688/goodboi.jpg 315w,
+/static/b12809d41fd3173c13c466507689c27a/828fb/goodboi.jpg 630w,
+/static/b12809d41fd3173c13c466507689c27a/0ede0/goodboi.jpg 945w,
+/static/b12809d41fd3173c13c466507689c27a/3ac88/goodboi.jpg 1260w,
+/static/b12809d41fd3173c13c466507689c27a/9c9b2/goodboi.jpg 2268w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
