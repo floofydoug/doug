@@ -16,9 +16,9 @@ module.exports = {
     title: `When Doug Remembers to Write`,
     author: {
       name: `Doug Phung`,
-      summary: `who lives in Austin and is building an EMR. and ocassionally rock climbs and plays ultimate.`,
+      summary: `A guy that used to play ultimate and is now building an ophthalmology EMR`,
     },
-    description: `For things too long to be posted on twitter. and twitter is dying anyways.`,
+    description: `This blog is just a collection of year re-caps now.`,
     siteUrl: `https://dougphung.com`,
     social: {
       twitter: `floofydoug`,
