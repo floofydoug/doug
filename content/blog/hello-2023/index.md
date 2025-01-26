@@ -157,7 +157,9 @@ Sami and I took Thanksgiving night off at a friend's place in Round Rock watchin
 ## December
 I signed a new lease in Lamar by my rock climbing gym. I missed a lot of the asian eats from Ktown in LA so I wanted to be closer to some of the pochas that I liked... like SOHA Bar. I forgot all about Cyberpunk Edgerunners when I started watching Arcane. I apologize to all the League fans I've offended over the years.
 
-Moyae passed 3/4 major certifications, with the 4th one missed because of a third party vendor that forgot to do an update. We are scheduled for another retest date Jan 3rd, 2023. 
+Spent Christmas Day fixing up some bugs. 
+
+Moyae passed 3/4 major certifications, with the 4th one missed because of a third party vendor that forgot to do an update. We are scheduled for another retest date Jan 3rd, 2023.
 
 
 ## Goals and resolutions met
