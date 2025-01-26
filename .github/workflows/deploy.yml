@@ -7,13 +7,23 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [20.x]
-    environment: github-pages
+    runs-on: ubuntu-22.04  # Explicit version to avoid future deprecation warnings
     steps:
-      - uses: actions/checkout@v1
-      - uses: floofydoug/gatsby-gh-pages-action@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20  # Explicitly specify Node.js 20
+
+      - name: Install Dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Build Gatsby Site
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: floofydoug/gatsby-gh-pages-action@v3
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
