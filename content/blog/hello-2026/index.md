@@ -1,10 +1,10 @@
 ---
 title: Hello 2026
 date: "2026-01-01T00:00:00.000Z"
-description: "It's the year of the horse again"
+description: "It's the year of the horse again. Is that good or bad for horses?"
 ---
 
-I'm beginning to think time itself has momentum. People used to say chase your dreams, but I don't hear that much anymore now that I'm a guy of a certain age. Maybe the momentum emerges when there are fewer breaks of celebration in-between. 2025 was busy, but there was a lot of Magic the Gathering in-between.
+I'm beginning to think time itself has momentum. People used to say chase your dreams, but I don't hear that much anymore now that I'm a guy of a certain age. Maybe the momentum emerges when there are fewer breaks of celebration in-between. 2025 was busy, but there was a lot of Magic the Gathering and friends in-between.
 
 ##  January 
 
@@ -32,6 +32,8 @@ Near the end of February, Trump told Zelenskyy, "You don't have the cards. With 
 
 ![Healthcare meetup February](./healthcare_meetup_february.jpg)
 *This was taken at the end when I was kicking people out*
+
+I was also following Michael Reeves and Ludwig travel tip-to-tip from the southern tip of Japan to the Northern tip without using Highways, GPS, and their limited Japanese skills. It looked like a lot of fun and I thought about getting a bike. 
 
 ## March
 I visited my cousin Steven's place got to see what what Alena was working on for Austin's 48 hr film festival. 
@@ -174,25 +176,28 @@ We celebrated Thanksgiving at my cousin Steven's house and I got to hear about a
 
 *We poured cherry coke in, lemonade in, cranberry ginger soda in... and somehow slushie came out! You can't explain that.*
 
-The 2025 G20 Johannesburg Summit was held November 22-23, marking the first G20 summit on the African continent. ([Wikipedia](https://en.wikipedia.org/wiki/2025_G20_Johannesburg_summit)) 
+Jakarta now has a larger population than Tokyo.  
 
 ## December
 At Thanksgiving, Ryan invited me to a White Elephant and I brought some Final Fantasy boosters and $20 worth of scratch cards to the event. Apparently it was a chicken pot luck dinner, but I ordered 25 orders of Spring Rolls and it was well recieved. 
 
 There was a lot of ceramic gifts and I ended up with a set. Unfortunately the bottom of this set was unglazed and I'm pretty sure I'm going to ruin it in the dishwasher. 
 
-I think I was done playing Stardew Valley at this point and started playing Dispatch. (Fantastic music and story, btw). Someone online compared it to a guy's version of Twilight. Having read that too, I agree.  
+I think I was done playing Stardew Valley at this point and started playing Dispatch. (Fantastic music and story, btw). Someone online compared it to a guy's version of Twilight. They're not wrong.
 
-I flew back home to Virginia to celebrate Christmas and I learned that one of the houses in Richmond had their pipes freeze so I rented a car, bought some supplies, and drove down and stayed  at Kristin's to try and get under the crawlspace to do some repairs. I only had the mornings on weekends to do work because Sami and I were still working weekends, so I was back on the computer at noon. 
+I flew back home to Virginia to celebrate Christmas and I learned that one of the houses in Richmond had their pipes freeze so I rented a car, bought some supplies, and drove down and stayed  at Kristin's to try and get under the crawlspace to do some repairs. I only had the mornings on weekends to do work because Sami and I were still working weekends, so I was back on the computer at noon. I failed and wasn't able to get the fix in, because the crawlspace was too tight.
 
-I got to see a couple of good friends who were back in town at San Yakitori (or is it Chung Dam) on multiple different nights. 
+I tried my best to see friends in town, but I missed a lot. There were a couple gatherings at at San Yakitori (or is it Chung Dam?) in Annandale.
 
-My Dad made a bet with me that he could beat me in a 1650 (1 mile) swim since I was so out of shape. The loser had to treat the family to King Spa. I won, but there was a lot at stake. My dad is 68. It took me 37 minutes. It really was a loss either way for me. I had to look up my old HS times: https://www.pvswim.org/0708hs/2008ConcordeDistrict_m.htm . I was effectively 3x slower already.
 
-2025 was recorded as one of the three hottest years on record, with the global temperature average surpassing the 1.5°C limit set by the Paris Agreement. ([AP News](https://apnews.com/article/1e9028da87e518382482e21fef3cfeee))  
 
-And on New Years eve, handed the league officially over to Alexis at Jireh Bakery in Centreville. 
 
+![ChungDam](./tim_christine.jpg)
+*I hadn't seen Tim and Christine since they moved to Colorado!*
+
+My Dad made a bet with me that he could beat me in a 1650 (1 mile) swim since I was so out of shape and hadn't really swam in 17 years. The loser had to treat the family to King Spa. I won, but there was a lot at stake. My dad is 68. It took me 37 minutes. It really was a loss either way for me. I had to look up [my old HS swim times](https://www.pvswim.org/0708hs/2008ConcordeDistrict_m.htm). I was effectively 3x slower already. I worked out of King Spa for a day, but they wouldn't let me charge my laptop so I had to leave early.
+
+And on New Years eve picked up my Grandma and Aunt from Dulles and got Grandma to her caretaker, packed, handed the frisbee league officially over to Alexis at Jireh Bakery in Centreville with Matt, drove back to Dulles, flew to Austin, got picked up by Massen, and headed to a New Years Party at Stevens where the same Slushie maker was a hit again! 
 
 ## 2025 Predictions: 
 
@@ -275,7 +280,7 @@ I briefly learned Michael Wong's, Tong Hua, (Fairy Tale) on Piano earlier in the
 
 
 ## EDIT
-Since starting and editing this on 1/1/2026 - 1/3/2026, US has already bombed Caracas and captured Maduro. Editing prediction to Chevron stock rising to 180 since they're the only US oil producers in the area. 
+Since starting and editing this on 1/1/2026 - 1/3/2026, US has already bombed Caracas and captured Maduro. Editing prediction to Chevron stock rising to 180 since they're the only US oil producers in the area. It was wild because at midnight, Massen and I were just dropping pins on google maps looking at Caracos commenting on how indefensible a port city like that was, and moments later Maduro was captured.
 
 
 
