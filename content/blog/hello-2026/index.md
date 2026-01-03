@@ -153,11 +153,13 @@ I give up on Dota because I am on a hot losing streak. I pick up Stardew Valley 
 ![StardewValley](./stardewvalley.jpg)
 *I was playing from an old saved file from 2018 and I forgot that I had put Frisbee was what made my farmer happy. So when I got my next Stardrop, it was a nice surprise. Fun Fact, Stardew Valley was solo developed by a guy, ConcernedApe, and his gf/wife supported him for 5 years before he released this game.*
 
-I was also having a lot of trouble sleeping and was averaging about 2-3 hours of sleep a night for weeks around this time and did multiple all nighters. I remember some nights I would finish work around 11pm. Work on my virtual farm until 2-3am. Get ready for bed. try to sleep, play Balatro, listen to youtube lectures from Sarah Paine to the entire Wendover playlist and podcasts until 7:30am or sometimes right into our morning standup for an all-nighter. I was losing a lot of hair, but maybe that's just unrelated and happens to 35 year olds. 
+I was also having a lot of trouble sleeping and was averaging about 2-3 hours of sleep a night for weeks around this time and did multiple all nighters. I remember some nights I would finish work around 11pm. Work on my virtual farm until 2-3am. Get ready for bed. try to sleep, play Balatro, listen to youtube lectures from Sarah Paine to the entire Wendover playlist and podcasts until 7:30am or sometimes right into our morning standup for an all-nighter. I was losing a lot of hair, but maybe that's just unrelated and happens to 35 year olds. I was sleeping \ napping whenever I could at my desk, and I developed septic bursitis on my elbow. I had to get it aspirated at One Medical. My elbow was pretty swollen and they drained 8cc's of fluid before it was just blood. 
 
 I did really well in the stock market and felt really comfortable. AMD doubled. Google pretty much doubled shortly after.
 
-On October 20, an Amazon Web Services failure caused a major outage affecting over 17 million users worldwide for a full day. This caused mayhem for Moyae, but their stock was still up.([TechRadar](https://www.techradar.com/pro/security/downtime-caused-historic-issues-in-2025-but-who-lost-out-most))
+On October 20, an Amazon Web Services failure caused a major outage affecting over 17 million users worldwide for a full day. This caused mayhem for Moyae, but their stock was still up.([TechRadar](https://www.techradar.com/pro/security/downtime-caused-historic-issues-in-2025-but-who-lost-out-most)). 
+
+I bought my mom two tickets to see Sheng Wang during his DC netflix taping for her birthday since I liked his show so much in late 2024. 
 
 ## November
 I gambled almost the entire year's worth of stock gains away like an idiot on naked rare earth metal calls. Who could've known this would happen?
@@ -196,7 +198,7 @@ My Dad made a bet with me that he could beat me in a 1650 (1 mile) swim since I 
 
 And on New Years eve, worked 4 hours, picked up my Grandma and Aunt from Dulles and got Grandma to her caretaker, packed, handed the frisbee league officially over to Alexis at Jireh Bakery in Centreville with Matt, drove back to Dulles, flew to Austin, watched Warfare on the plane, got picked up by Massen, and headed to a New Years Party at Stevens where the same Slushie maker was a hit again! 
 
-## 2025 Predictions: 
+# 2025 Predictions: 
 
 I was really wrong on my predictions and I think I shouldn't be so vague with them. I'll try to make 2026 predictions a bit more verifiable like the prediction markets on Kalshi. 
 
@@ -216,7 +218,7 @@ I gave myself credit for AOC talking about running for the presidency because it
 - JFK/MLK papers reveal government involvement, Trump uses it to install militia (HALF CREDIT)
 - Korean surpasses Mandarin on Duolingo for Asian learners ❌
 
-2026 Predictions: 
+# 2026 Predictions: 
 - Bitcoin > 150K at some point in 2026
 - DC Breeze wins 2026 UFA championships
 - GTA 6 delayed again until 2027
