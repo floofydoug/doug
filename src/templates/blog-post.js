@@ -10,10 +10,54 @@ const BlogPostTemplate = ({
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
+  const articleRef = React.useRef(null)
+
+  React.useEffect(() => {
+    if (typeof window === "undefined") return
+
+    const videos = articleRef.current?.querySelectorAll("video")
+    if (!videos || videos.length === 0) return
+
+    const observerOptions = {
+      root: null,
+      rootMargin: "0px",
+      threshold: 0.5, // Trigger when 50% of video is visible (center of viewport)
+    }
+
+    const observerCallback = (entries) => {
+      entries.forEach((entry) => {
+        const video = entry.target
+        if (entry.isIntersecting) {
+          // Video is in viewport center - play it
+          video.muted = true // Required for autoplay in most browsers
+          video.play().catch((err) => {
+            // Autoplay was prevented, user interaction required
+            console.log("Autoplay prevented:", err)
+          })
+        } else {
+          // Video is out of viewport - pause it
+          video.pause()
+        }
+      })
+    }
+
+    const observer = new IntersectionObserver(observerCallback, observerOptions)
+
+    videos.forEach((video) => {
+      observer.observe(video)
+    })
+
+    return () => {
+      videos.forEach((video) => {
+        observer.unobserve(video)
+      })
+    }
+  }, [post.html])
 
   return (
     <Layout location={location} title={siteTitle}>
       <article
+        ref={articleRef}
         className="blog-post"
         itemScope
         itemType="http://schema.org/Article"

@@ -179,17 +179,17 @@ Even though I'm cheating because this post is being published at the end of Janu
 
 This year I predict: 
 
-- Trump will solidify plans for a third term. 
-- Trump will remove the age limit for presidency
-- Trump will set the stage for Barron Trump to take a strong executive role like VP
-- A new class war between "Old Money" and "New Money" in America as cryptos print millionaires and billionaires overnight. This has existed but a true organized label for this hasn't been in the limelight.
-- A complete colonization of Gaza as Isreal declares a second "state" under its control. 
-- I predict the first mass reported friendly fire accidental losses suffered on the battlefield as a result of usage of weaponized AI. 
-- Talks about California seceding from the US
-- AOC may talk about running for presidency in 2028. 
-- Russia will stockpile Ethereum in response to US stockpiling Bitcoin. 
-- We will learn from the papers being released about JFK assassination, MLK, etc, that the hands of government were involved, and Trump will use that to further weaken the current government to install his own militia. Hope it stems from SpaceForce so that there is some sick humor in this as they work to deal with "aliens". 
-- This may last longer than 2025, but I predict that as Korean media continues to grow at an incredible pace, that kpop and kdramas will win the culture war and for the first time ever, there will be more japanese, chinese, and vietnamese people studying the language on duolingo. In the past, this language was Mandarin.
+- Trump solidifies plans for a third term ❌
+- Trump removes the age limit for presidency ❌
+- Trump sets stage for Barron Trump to take VP role ❌
+- New class war between "Old Money" and "New Money" emerges ❌
+- Israel declares second "state" in Gaza ❌
+- First mass AI-friendly fire casualties reported ❌
+- California secession talks begin ❌
+- AOC talks about running for 2028 ❌
+- Russia stockpiles Ethereum in response to US Bitcoin ❌
+- JFK/MLK papers reveal government involvement, Trump uses it to install militia ❌
+- Korean surpasses Mandarin on Duolingo for Asian learners ❌
 
 # Resolutions
 

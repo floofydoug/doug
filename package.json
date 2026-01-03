@@ -18,6 +18,7 @@
     "gatsby-remark-images": "^7.3.1",
     "gatsby-remark-prismjs": "^7.3.0",
     "gatsby-remark-responsive-iframe": "^6.3.0",
+    "gatsby-remark-video": "^1.2.5",
     "gatsby-source-filesystem": "^5.3.1",
     "gatsby-transformer-remark": "^6.3.1",
     "gatsby-transformer-sharp": "^5.3.1",
@@ -29,11 +30,11 @@
     "gh-pages": "^6.1.1",
     "prettier": "^2.8.0"
   },
-"homepage": "https://www.dougphung.com",
+  "homepage": "https://www.dougphung.com",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "gatsby build && gh-pages -d public",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
     "serve": "gatsby serve",
