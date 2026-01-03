@@ -4,7 +4,9 @@ date: "2026-01-01T00:00:00.000Z"
 description: "It's the year of the horse again. Is that good or bad for horses?"
 ---
 
-I'm beginning to think time itself has momentum. People used to say chase your dreams, but I don't hear that much anymore now that I'm a guy of a certain age. Maybe the momentum emerges when there are fewer breaks of celebration in-between. 2025 was busy, but there was a lot of Magic the Gathering and friends in-between.
+I’m starting to think time has momentum. People used to say “chase your dreams,” but I don’t hear that much anymore now that I’m a guy of a certain age. Maybe that’s because it’s assumed others already caught theirs.
+
+The momentum seems to build when there are fewer pauses to celebrate in between. 2025 was busy, but luckily there was a lot of Magic the Gathering and friends in the gaps, just enough to slow it down.
 
 ##  January 
 
@@ -251,16 +253,16 @@ Jasmine Kelly will text you back.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4U45aEWtQhrm8A5mxPaFZ7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 I met an asian guy who performed Vienna at a Karaoke night sometime in July. I have him saved as "Billy Joel" on my phone and I said we'd hang out but I think I was whisked away to New Jersey and then Arizona and its been too long. I've been inspired since. 
 
-## Resolutions
+### Old Resolutions
 I only managed to hit 3 of my last year's resolutions: 
 
-I took the motorcycle classes (I know I said dance lessons last year, but it's a course. I never sign up for stuff. give this to me.)
+1. I took the motorcycle classes (I know I said dance lessons last year, but it's a course. I never sign up for stuff. give this to me.)
 
-On the last day of the year, Fairfax Ultimate was officially handed over.
+2. On the last day of the year, Fairfax Ultimate was officially handed over.
 
-I briefly learned Michael Wong's, Tong Hua, (Fairy Tale) on Piano earlier in the year, but didn't keep up practicing it. 
+3. I briefly learned Michael Wong's, Tong Hua, (Fairy Tale) on Piano earlier in the year, but didn't keep up practicing it. 
 
-## Resolutions
+### New Resolutions
 
 
 1. This year I resolve to be able to bench, deadlift, and squat my own body weight, 5 reps. It's a pretty beginner goal, but the only gym I've ever really gone to is the climbing gym and my shoulder is still pretty sore from not PT'ing.

@@ -21,7 +21,7 @@ module.exports = {
     description: `This blog is just a collection of year re-caps now.`,
     siteUrl: `https://dougphung.com`,
     social: {
-      twitter: `floofydoug`,
+      instagram: `floofydoug`,
     },
   },
   plugins: [
