@@ -22,7 +22,14 @@ const Layout = ({ location, title, children }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="global-header">{header}</header>
+      <header className="global-header">
+        {header}
+        <nav style={{ fontSize: "0.85rem", marginTop: "0.25rem" }}>
+          <Link to="/">writing</Link>
+          {" · "}
+          <Link to="/finances">finances</Link>
+        </nav>
+      </header>
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()}, Built with lots of love, ambition, and regret. 

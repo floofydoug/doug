@@ -1,0 +1,8 @@
+{
+  "asOf": "2026-08-18",
+  "startingCapital": 10000,
+  "cash": 10000,
+  "note": "Special-situations account. Positions are recorded at cost; this file is updated by hand when a trade is made.",
+  "positions": [],
+  "closed": []
+}
