@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-08-19T01:21:24.101Z",
   "periodStart": "2026-01-01",
-  "assumptions": "Max participation per beneficial owner: 99 shares per odd-lot tender bought at the filing-day close; 1 pre-split share per round-up reverse split, sold ~2 weeks after the 8-K. Prices from Stooq daily closes (split-adjusted). Automated best-effort extraction — 'review' rows were not counted.",
+  "assumptions": "Max participation per beneficial owner: 99 shares per odd-lot tender bought at the filing-day close; 1 pre-split share per round-up reverse split, sold ~2 weeks after the 8-K. Prices from Yahoo daily closes, corrected to raw pre-split values via split events. Automated best-effort extraction — 'review' rows were not counted.",
   "tenders": {
     "summary": {
       "candidates": 24,
