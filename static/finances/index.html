@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Finances — dougphung.com</title>
+<style>
+  :root {
+    --bg: #f5f6f8;
+    --surface: #ffffff;
+    --border: #e3e6ea;
+    --ink: #1a1d21;
+    --ink-2: #5f6570;
+    --ink-3: #8a919c;
+    --accent: #2456c4;
+    --pos: #157f3d;
+    --neg: #b42318;
+    --row-hover: #f0f4fb;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .topbar {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 10px 24px;
+    display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap;
+  }
+  .topbar .brand { font-weight: 650; font-size: 15px; color: var(--ink); }
+  .topbar .brand span { color: var(--ink-3); font-weight: 400; }
+  .topbar .meta { color: var(--ink-3); font-size: 12px; margin-left: auto; }
+
+  .wrap { max-width: 1440px; margin: 0 auto; padding: 20px 24px 60px; }
+
+  .tiles {
+    display: grid; gap: 12px;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    margin-bottom: 20px;
+  }
+  .tile {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 12px 14px;
+  }
+  .tile .label { font-size: 12px; color: var(--ink-2); }
+  .tile .value { font-size: 24px; font-weight: 650; margin-top: 2px; }
+  .tile .sub { font-size: 12px; color: var(--ink-3); margin-top: 2px; }
+  .tile.hero .value { font-size: 32px; }
+  .pos { color: var(--pos); }
+  .neg { color: var(--neg); }
+
+  .tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--border); margin-bottom: 14px; flex-wrap: wrap; }
+  .tabs button {
+    border: none; background: none; cursor: pointer;
+    font: inherit; font-weight: 550; color: var(--ink-2);
+    padding: 8px 14px; border-bottom: 2px solid transparent;
+  }
+  .tabs button.active { color: var(--ink); border-bottom-color: var(--accent); }
+  .tabs button:hover { color: var(--ink); }
+
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  .controls { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 10px; }
+  .controls input[type="search"], .controls select {
+    font: inherit; padding: 6px 10px; border: 1px solid var(--border);
+    border-radius: 6px; background: var(--surface); color: var(--ink);
+  }
+  .controls label { font-size: 13px; color: var(--ink-2); display: flex; gap: 6px; align-items: center; }
+  .controls .count { font-size: 12px; color: var(--ink-3); margin-left: auto; }
+
+  .note { font-size: 12.5px; color: var(--ink-2); margin: 6px 0 12px; max-width: 900px; }
+
+  .tablebox {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; overflow: auto; max-height: 72vh;
+  }
+  table { border-collapse: collapse; width: 100%; }
+  thead th {
+    position: sticky; top: 0; background: var(--surface);
+    text-align: left; font-size: 12px; color: var(--ink-2);
+    padding: 8px 12px; border-bottom: 1px solid var(--border);
+    cursor: pointer; user-select: none; white-space: nowrap;
+  }
+  thead th.sorted { color: var(--ink); }
+  thead th .arrow { font-size: 10px; }
+  tbody td { padding: 7px 12px; border-bottom: 1px solid #f1f2f4; vertical-align: top; }
+  tbody tr:hover { background: var(--row-hover); }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  td.nowrap { white-space: nowrap; }
+  .chip {
+    display: inline-block; font-size: 11px; padding: 1px 8px;
+    border-radius: 999px; border: 1px solid var(--border); color: var(--ink-2);
+  }
+  .chip.ok { color: var(--pos); border-color: #bfe3cc; background: #f0faf3; }
+  .chip.warn { color: #8a5a00; border-color: #ecd9ab; background: #fdf7e8; }
+
+  .footer { margin-top: 26px; font-size: 12px; color: var(--ink-3); max-width: 900px; }
+  .err { color: var(--neg); font-size: 13px; }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <div class="brand">dougphung.com <span>/ finances</span></div>
+  <a href="/">← writing</a>
+  <div class="meta" id="stamps">loading…</div>
+</div>
+
+<div class="wrap">
+  <div class="tiles" id="tiles"></div>
+
+  <div class="tabs" id="tabs">
+    <button data-tab="scanner" class="active">Live scanner</button>
+    <button data-tab="backtest">2026 missed opportunities</button>
+    <button data-tab="promos">Bank promotions</button>
+    <button data-tab="portfolio">Portfolio</button>
+  </div>
+
+  <div class="panel active" id="panel-scanner"></div>
+  <div class="panel" id="panel-backtest"></div>
+  <div class="panel" id="panel-promos"></div>
+  <div class="panel" id="panel-portfolio"></div>
+
+  <div class="footer">
+    Personal research log, published for transparency. Nothing on this page is
+    investment advice or a recommendation; I may hold positions in anything
+    listed. Scanner reads SEC EDGAR full-text search on a schedule; promotions
+    aggregate <a href="https://www.doctorofcredit.com/best-bank-account-bonuses/">Doctor of Credit</a>'s
+    syndication feed. Every row is a candidate that still needs a human to read
+    the underlying source.
+  </div>
+</div>
+
+<script>
+const S3 = "https://dougphung-finances-data.s3.us-west-1.amazonaws.com";
+const SOURCES = {
+  scanner:   [S3 + "/scanner.json", "/data/scanner.json"],
+  promos:    [S3 + "/promotions.json", "/data/promotions.json"],
+  backtest:  ["/data/backtest-2026.json"],
+  portfolio: ["/data/portfolio.json"],
+};
+
+const $ = sel => document.querySelector(sel);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const money = n => (n < 0 ? "-" : "") + "$" + Math.abs(n).toLocaleString("en-US",
+  { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
+async function fetchFirst(urls) {
+  for (const url of urls) {
+    try {
+      const res = await fetch(url);
+      if (res.ok) return res.json();
+    } catch {}
+  }
+  return null;
+}
+
+/* ---------- generic sortable/filterable table ---------- */
+function renderTable(el, spec) {
+  let sortKey = spec.defaultSort, sortDir = -1, query = "", extra = {};
+
+  function draw() {
+    let rows = spec.rows.filter(r => spec.filter(r, query, extra));
+    rows.sort((a, b) => {
+      const av = a[sortKey], bv = b[sortKey];
+      if (av == null) return 1;
+      if (bv == null) return -1;
+      return (av < bv ? -1 : av > bv ? 1 : 0) * sortDir;
+    });
+    const head = spec.columns.map(c =>
+      `<th class="${c.num ? "num" : ""} ${c.key === sortKey ? "sorted" : ""}" data-key="${c.key}">` +
+      `${esc(c.label)} ${c.key === sortKey ? `<span class="arrow">${sortDir === -1 ? "▼" : "▲"}</span>` : ""}</th>`
+    ).join("");
+    const body = rows.map(r =>
+      "<tr>" + spec.columns.map(c =>
+        `<td class="${c.num ? "num" : ""} ${c.nowrap ? "nowrap" : ""}">${c.render(r)}</td>`
+      ).join("") + "</tr>"
+    ).join("");
+    el.querySelector(".tablebox").innerHTML =
+      `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
+    el.querySelector(".count").textContent =
+      rows.length === spec.rows.length ? `${rows.length} rows` : `${rows.length} of ${spec.rows.length} rows`;
+    el.querySelectorAll("thead th").forEach(th => th.addEventListener("click", () => {
+      const key = th.dataset.key;
+      if (key === sortKey) sortDir = -sortDir; else { sortKey = key; sortDir = -1; }
+      draw();
+    }));
+  }
+
+  const controls = `<div class="controls">
+      <input type="search" placeholder="filter…" aria-label="filter rows">
+      ${spec.extraControls || ""}
+      <span class="count"></span>
+    </div>
+    ${spec.note ? `<div class="note">${spec.note}</div>` : ""}
+    <div class="tablebox"></div>`;
+  el.insertAdjacentHTML("beforeend", controls);
+  el.querySelector("input[type=search]").addEventListener("input", e => { query = e.target.value.toLowerCase(); draw(); });
+  el.querySelectorAll("[data-extra]").forEach(input => {
+    const apply = () => { extra[input.dataset.extra] = input.type === "checkbox" ? input.checked : input.value; draw(); };
+    input.addEventListener("input", apply); apply();
+  });
+  draw();
+}
+
+/* ---------- sections ---------- */
+function scannerSection(data) {
+  const el = $("#panel-scanner");
+  if (!data) { el.innerHTML = '<p class="err">Could not load scanner data.</p>'; return; }
+  for (const det of data.detectors) {
+    const sec = document.createElement("div");
+    sec.innerHTML = `<h3 style="margin:14px 0 2px">${esc(det.title)}</h3>`;
+    el.appendChild(sec);
+    renderTable(sec, {
+      rows: det.hits,
+      defaultSort: "filed",
+      note: esc(det.description) + ` <span class="chip">${esc(det.forms.join(", "))} · last ${det.lookbackDays}d</span>`,
+      columns: [
+        { key: "filed", label: "Filed", nowrap: true, render: r => esc(r.filed) },
+        { key: "form", label: "Form", nowrap: true, render: r => esc(r.form) },
+        { key: "company", label: "Filer", render: r => esc(r.company) },
+        { key: "url", label: "", render: r => r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">filing</a>` : "" },
+      ],
+      filter: (r, q) => !q || (r.company + " " + r.form).toLowerCase().includes(q),
+    });
+  }
+}
+
+function backtestSection(data) {
+  const el = $("#panel-backtest");
+  if (!data) { el.innerHTML = '<p class="err">Could not load backtest data.</p>'; return; }
+  const groups = [
+    ["Odd-lot tenders", data.tenders],
+    ["Reverse-split round-ups", data.reverseSplits],
+  ];
+  el.insertAdjacentHTML("beforeend", `<div class="note">${esc(data.assumptions)}</div>`);
+  for (const [label, g] of groups) {
+    const s = g.summary;
+    const sec = document.createElement("div");
+    sec.innerHTML = `<h3 style="margin:14px 0 2px">${esc(label)}
+      <span class="chip ok">priced ${s.priced} → ${money(s.totalProfit)}</span>
+      <span class="chip warn">${s.review} need review</span>
+      <span class="chip">${s.excluded} excluded</span></h3>`;
+    el.appendChild(sec);
+    renderTable(sec, {
+      rows: g.rows,
+      defaultSort: "profit",
+      extraControls: `<label><input type="checkbox" data-extra="pricedOnly" checked> priced only</label>`,
+      columns: [
+        { key: "filed", label: "Filed", nowrap: true, render: r => esc(r.filed) },
+        { key: "ticker", label: "Ticker", nowrap: true, render: r => esc(r.ticker || "—") },
+        { key: "status", label: "Status", nowrap: true, render: r => `<span class="chip ${r.status === "priced" ? "ok" : ""}">${esc(r.status)}</span>` },
+        { key: "profit", label: "Est. profit", num: true, render: r =>
+          r.profit == null ? "" : `<span class="${r.profit >= 0 ? "pos" : "neg"}">${money(r.profit)}</span>` },
+        { key: "detail", label: "Detail", render: r => esc(r.detail || "") },
+        { key: "url", label: "", render: r => r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">filing</a>` : "" },
+      ],
+      filter: (r, q, x) => (!x.pricedOnly || r.status === "priced") &&
+        (!q || ((r.ticker || "") + " " + r.company + " " + r.status + " " + (r.detail || "")).toLowerCase().includes(q)),
+    });
+  }
+}
+
+function promosSection(data) {
+  const el = $("#panel-promos");
+  if (!data) { el.innerHTML = '<p class="err">Could not load promotions data.</p>'; return; }
+  const rows = data.items.filter(i => !i.isRoundup).map(i => ({
+    ...i,
+    stateTag: /^\[/.test(i.title) ? (i.title.match(/^\[([^\]]+)\]/) || [])[1] || "tagged" : null,
+  }));
+  const roundup = data.items.find(i => i.isRoundup);
+  const sec = document.createElement("div");
+  sec.innerHTML = roundup
+    ? `<h3 style="margin:14px 0 2px">Bonuses since ${esc(data.archiveStart)} ·
+        <a href="${esc(roundup.link)}" target="_blank" rel="noopener">current curated list</a></h3>`
+    : "";
+  el.appendChild(sec);
+  renderTable(sec, {
+    rows,
+    defaultSort: "date",
+    note: "Headline amounts parsed from titles; many offers are state-restricted, business-only, or referral-based. Read the source post before acting.",
+    extraControls: `
+      <label>min $<select data-extra="minAmt"><option value="0">0</option><option value="200">200</option><option value="300" selected>300</option><option value="500">500</option></select></label>
+      <label><input type="checkbox" data-extra="nationalOnly"> hide state-tagged</label>`,
+    columns: [
+      { key: "date", label: "Posted", nowrap: true, render: r => esc(r.date) },
+      { key: "amount", label: "Bonus", num: true, render: r => r.amount ? "$" + r.amount.toLocaleString() : "—" },
+      { key: "stateTag", label: "Scope", nowrap: true, render: r => r.stateTag ? `<span class="chip">${esc(r.stateTag)}</span>` : `<span class="chip ok">open</span>` },
+      { key: "title", label: "Offer", render: r => `<a href="${esc(r.link)}" target="_blank" rel="noopener">${esc(r.title)}</a>` },
+    ],
+    filter: (r, q, x) => (r.amount || 0) >= Number(x.minAmt || 0) &&
+      (!x.nationalOnly || !r.stateTag) &&
+      (!q || r.title.toLowerCase().includes(q)),
+  });
+}
+
+function portfolioSection(data) {
+  const el = $("#panel-portfolio");
+  if (!data) { el.innerHTML = '<p class="err">Could not load portfolio data.</p>'; return; }
+  const invested = data.positions.reduce((s, p) => s + p.shares * p.costPerShare, 0);
+  const realized = data.closed.reduce((s, p) => s + p.shares * (p.proceedsPerShare - p.costPerShare), 0);
+  el.insertAdjacentHTML("beforeend",
+    `<div class="note">As of ${esc(data.asOf)}. ${esc(data.note)} Starting capital ${money(data.startingCapital)},
+     cash ${money(data.cash)}, invested at cost ${money(invested)}, realized P&amp;L
+     <strong class="${realized >= 0 ? "pos" : "neg"}">${money(realized)}</strong>.</div>`);
+  const mk = (title, rows, closed) => {
+    if (!rows.length) return;
+    const sec = document.createElement("div");
+    sec.innerHTML = `<h3 style="margin:14px 0 2px">${title}</h3>`;
+    el.appendChild(sec);
+    renderTable(sec, {
+      rows,
+      defaultSort: closed ? "closed" : "opened",
+      columns: [
+        { key: "opened", label: "Opened", nowrap: true, render: r => esc(r.opened) },
+        ...(closed ? [{ key: "closed", label: "Closed", nowrap: true, render: r => esc(r.closed) }] : []),
+        { key: "ticker", label: "Ticker", nowrap: true, render: r => esc(r.ticker) },
+        { key: "shares", label: "Shares", num: true, render: r => r.shares.toLocaleString() },
+        { key: "costPerShare", label: "Cost", num: true, render: r => money(r.costPerShare) },
+        ...(closed
+          ? [{ key: "proceedsPerShare", label: "Proceeds", num: true, render: r => money(r.proceedsPerShare) },
+             { key: "pnl", label: "P&L", num: true, render: r => {
+               const v = r.shares * (r.proceedsPerShare - r.costPerShare);
+               return `<span class="${v >= 0 ? "pos" : "neg"}">${money(v)}</span>`;
+             } }]
+          : []),
+        { key: "note", label: closed ? "Note" : "Thesis", render: r => esc(r.note || r.thesis || "") },
+      ],
+      filter: (r, q) => !q || (r.ticker + " " + (r.note || r.thesis || "")).toLowerCase().includes(q),
+    });
+  };
+  mk("Open positions", data.positions, false);
+  mk("Closed trades", data.closed, true);
+  if (!data.positions.length && !data.closed.length)
+    el.insertAdjacentHTML("beforeend", `<div class="note">No trades yet — the account is 100% cash awaiting the first scanner-sourced event.</div>`);
+}
+
+/* ---------- tiles + boot ---------- */
+function tiles({ scanner, backtest, promos, portfolio }) {
+  const t = [];
+  if (portfolio) {
+    const invested = portfolio.positions.reduce((s, p) => s + p.shares * p.costPerShare, 0);
+    const realized = portfolio.closed.reduce((s, p) => s + p.shares * (p.proceedsPerShare - p.costPerShare), 0);
+    t.push({ label: "Account value (at cost)", value: money(portfolio.cash + invested), sub: `cash ${money(portfolio.cash)}`, hero: true });
+    t.push({ label: "Realized P&L", value: money(realized), cls: realized >= 0 ? "pos" : "neg", sub: `${portfolio.closed.length} closed trades` });
+  }
+  if (backtest) {
+    const total = backtest.tenders.summary.totalProfit + backtest.reverseSplits.summary.totalProfit;
+    t.push({ label: "2026 missed opportunities", value: money(total),
+      sub: `${backtest.tenders.summary.priced + backtest.reverseSplits.summary.priced} priced events` });
+  }
+  if (scanner) {
+    const hits = scanner.detectors.reduce((s, d) => s + d.hits.length, 0);
+    t.push({ label: "Live scanner candidates", value: String(hits),
+      sub: scanner.detectors.map(d => `${d.hits.length} ${d.id.split("-")[0]}`).join(" · ") });
+  }
+  if (promos) {
+    const bonuses = promos.items.filter(i => !i.isRoundup && i.amount);
+    t.push({ label: "Bank bonuses archived", value: String(bonuses.length), sub: `${bonuses.filter(i => i.amount >= 300).length} at $300+` });
+  }
+  $("#tiles").innerHTML = t.map(x => `
+    <div class="tile ${x.hero ? "hero" : ""}">
+      <div class="label">${esc(x.label)}</div>
+      <div class="value ${x.cls || ""}">${esc(x.value)}</div>
+      ${x.sub ? `<div class="sub">${esc(x.sub)}</div>` : ""}
+    </div>`).join("");
+}
+
+document.querySelectorAll("#tabs button").forEach(btn => btn.addEventListener("click", () => {
+  document.querySelectorAll("#tabs button").forEach(b => b.classList.toggle("active", b === btn));
+  document.querySelectorAll(".panel").forEach(p => p.classList.toggle("active", p.id === "panel-" + btn.dataset.tab));
+}));
+
+(async () => {
+  const [scanner, backtest, promos, portfolio] = await Promise.all([
+    fetchFirst(SOURCES.scanner), fetchFirst(SOURCES.backtest),
+    fetchFirst(SOURCES.promos), fetchFirst(SOURCES.portfolio),
+  ]);
+  tiles({ scanner, backtest, promos, portfolio });
+  scannerSection(scanner);
+  backtestSection(backtest);
+  promosSection(promos);
+  portfolioSection(portfolio);
+  const stamps = [];
+  if (scanner) stamps.push("scan " + new Date(scanner.generatedAt).toLocaleString());
+  if (promos) stamps.push("promos " + new Date(promos.generatedAt).toLocaleString());
+  $("#stamps").textContent = stamps.join(" · ") || "data unavailable";
+})();
+</script>
+</body>
+</html>

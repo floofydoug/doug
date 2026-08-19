@@ -3,7 +3,7 @@
  *
  * Sweeps EDGAR full-text search from Jan 1 2026 to today for the same two
  * detectors as the live scanner, reads each filing to classify it, prices the
- * trade with Stooq daily data, and estimates what maximum participation would
+ * trade with Yahoo chart data, and estimates what maximum participation would
  * have earned:
  *   - odd-lot tenders: buy 99 shares at the close on filing day, tender at the
  *     fixed offer price
@@ -112,7 +112,7 @@ async function filingText(url) {
   }
 }
 
-// ---- price data (Stooq daily CSV, split-adjusted) ----
+// ---- price data ----
 
 const priceCache = new Map()
 
@@ -376,7 +376,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     periodStart: START,
     assumptions:
-      "Max participation per beneficial owner: 99 shares per odd-lot tender bought at the filing-day close; 1 pre-split share per round-up reverse split, sold ~2 weeks after the 8-K. Prices from Stooq daily closes (split-adjusted). Automated best-effort extraction — 'review' rows were not counted.",
+      "Max participation per beneficial owner: 99 shares per odd-lot tender bought at the filing-day close; 1 pre-split share per round-up reverse split, sold ~2 weeks after the 8-K. Prices from Yahoo daily closes, corrected to raw pre-split values via split events. Automated best-effort extraction — 'review' rows were not counted.",
     tenders: { summary: summarize(tenders), rows: tenders },
     reverseSplits: { summary: summarize(splits), rows: splits },
   }

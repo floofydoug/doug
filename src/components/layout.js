@@ -27,7 +27,8 @@ const Layout = ({ location, title, children }) => {
         <nav style={{ fontSize: "0.85rem", marginTop: "0.25rem" }}>
           <Link to="/">writing</Link>
           {" · "}
-          <Link to="/finances">finances</Link>
+          {/* plain anchor — /finances/ is a standalone app outside Gatsby routing */}
+          <a href="/finances/">finances</a>
         </nav>
       </header>
       <main>{children}</main>
