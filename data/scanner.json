@@ -1,0 +1,409 @@
+{
+  "generatedAt": "2026-08-18T23:01:25.924Z",
+  "detectors": [
+    {
+      "id": "odd-lot-tender",
+      "title": "Odd-lot tender offers",
+      "description": "Tender offers and going-private filings that mention odd lots. Holders of fewer than 100 shares are often accepted in full without proration — read the filing to confirm the odd-lot preference and the offer price.",
+      "lookbackDays": 45,
+      "forms": [
+        "SC TO-I",
+        "SC TO-T",
+        "SC 13E3"
+      ],
+      "hits": [
+        {
+          "company": "Franklin Lexington Private Markets Fund  (CIK 0002008602)",
+          "form": "SC TO-I",
+          "filed": "2026-08-14",
+          "adsh": "0001193125-26-351012",
+          "url": "https://www.sec.gov/Archives/edgar/data/2008602/000119312526351012/d176314dex99a1ii.htm"
+        },
+        {
+          "company": "ARES STRATEGIC INCOME FUND  (CIK 0001918712)",
+          "form": "SC TO-I",
+          "filed": "2026-07-28",
+          "adsh": "0001104659-26-087531",
+          "url": "https://www.sec.gov/Archives/edgar/data/1918712/000110465926087531/tm2621335-1_sctoia.htm"
+        },
+        {
+          "company": "Fortress Private Lending Fund  (CIK 0002012139)",
+          "form": "SC TO-I",
+          "filed": "2026-07-23",
+          "adsh": "0001193125-26-313901",
+          "url": "https://www.sec.gov/Archives/edgar/data/2012139/000119312526313901/ck0002012139-ex99_a1ii.htm"
+        },
+        {
+          "company": "Hancock Park Corporate Income, Inc.  (CIK 0001661306)",
+          "form": "SC TO-I",
+          "filed": "2026-07-06",
+          "adsh": "0001661306-26-000051",
+          "url": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000051/hpci_q2_26_to-ia_7.2.26.htm"
+        }
+      ]
+    },
+    {
+      "id": "reverse-split-roundup",
+      "title": "Reverse splits that round up",
+      "description": "Filings describing a reverse stock split where fractional shares are rounded up to a whole share. Verify in the filing that round-up happens at the beneficial-holder level and not cash-in-lieu.",
+      "lookbackDays": 30,
+      "forms": [
+        "8-K",
+        "DEF 14A",
+        "PRE 14A"
+      ],
+      "hits": [
+        {
+          "company": "Sadot Group Inc.  (SDOT)  (CIK 0001701756)",
+          "form": "8-K",
+          "filed": "2026-08-18",
+          "adsh": "0001731122-26-001088",
+          "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001088/e7864_ex10-2.htm"
+        },
+        {
+          "company": "Liminatus Pharma, Inc.  (LIMN, LIMNW)  (CIK 0001971387)",
+          "form": "8-K",
+          "filed": "2026-08-18",
+          "adsh": "0001104659-26-098335",
+          "url": "https://www.sec.gov/Archives/edgar/data/1971387/000110465926098335/tm2623497d1_ex99-1.htm"
+        },
+        {
+          "company": "Fulcrum Therapeutics, Inc.  (FULC)  (CIK 0001680581)",
+          "form": "8-K",
+          "filed": "2026-08-17",
+          "adsh": "0001193125-26-353278",
+          "url": "https://www.sec.gov/Archives/edgar/data/1680581/000119312526353278/d136791dex21.htm"
+        },
+        {
+          "company": "Medtronic plc  (MDT)  (CIK 0001613103)",
+          "form": "DEF 14A",
+          "filed": "2026-08-17",
+          "adsh": "0001613103-26-000010",
+          "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310326000010/mdt-20260816.htm"
+        },
+        {
+          "company": "Fabrinet  (FN)  (CIK 0001408710)",
+          "form": "8-K",
+          "filed": "2026-08-17",
+          "adsh": "0001408710-26-000026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1408710/000140871026000026/fn-20260811.htm"
+        },
+        {
+          "company": "Curanex Pharmaceuticals Inc  (CURX)  (CIK 0002025942)",
+          "form": "8-K",
+          "filed": "2026-08-17",
+          "adsh": "0001493152-26-038764",
+          "url": "https://www.sec.gov/Archives/edgar/data/2025942/000149315226038764/form8-k.htm"
+        },
+        {
+          "company": "NEXGEL, INC.  (NXGL, NXGLW)  (CIK 0001468929)",
+          "form": "PRE 14A",
+          "filed": "2026-08-14",
+          "adsh": "0001493152-26-038520",
+          "url": "https://www.sec.gov/Archives/edgar/data/1468929/000149315226038520/formpre14a.htm"
+        },
+        {
+          "company": "FOXO TECHNOLOGIES INC.  (FOXO, FOXOW)  (CIK 0001812360)",
+          "form": "8-K",
+          "filed": "2026-08-14",
+          "adsh": "0001493152-26-038356",
+          "url": "https://www.sec.gov/Archives/edgar/data/1812360/000149315226038356/form8-k.htm"
+        },
+        {
+          "company": "CXApp Inc.  (CXAI, CXAIW)  (CIK 0001820875)",
+          "form": "8-K",
+          "filed": "2026-08-14",
+          "adsh": "0001829126-26-008889",
+          "url": "https://www.sec.gov/Archives/edgar/data/1820875/000182912626008889/cxappinc_8k.htm"
+        },
+        {
+          "company": "Platinum SpinCo, Inc.  (CIK 0002134183)",
+          "form": "8-K",
+          "filed": "2026-08-13",
+          "adsh": "0001193125-26-349114",
+          "url": "https://www.sec.gov/Archives/edgar/data/2134183/000119312526349114/d101885dex991.htm"
+        },
+        {
+          "company": "KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)",
+          "form": "8-K",
+          "filed": "2026-08-11",
+          "adsh": "0001477932-26-004846",
+          "url": "https://www.sec.gov/Archives/edgar/data/2022308/000147793226004846/kidz_ex991.htm"
+        },
+        {
+          "company": "Cherry Hill Mortgage Investment Corp  (CHMI, CHMI-PA, CHMI-PB)  (CIK 0001571776)",
+          "form": "8-K",
+          "filed": "2026-08-10",
+          "adsh": "0001140361-26-031930",
+          "url": "https://www.sec.gov/Archives/edgar/data/1571776/000114036126031930/ef20079827_ex2-1.htm"
+        },
+        {
+          "company": "TPG Mortgage Investment Trust, Inc.  (MITN, MITP, MITT, MITT-PA, MITT-PB, MITT-PC)  (CIK 0001514281)",
+          "form": "8-K",
+          "filed": "2026-08-10",
+          "adsh": "0001628280-26-054986",
+          "url": "https://www.sec.gov/Archives/edgar/data/1514281/000162828026054986/mitt-8x10x26exhibit21.htm"
+        },
+        {
+          "company": "Venu Holding Corp  (VENU)  (CIK 0001770501)",
+          "form": "PRE 14A",
+          "filed": "2026-08-10",
+          "adsh": "0001493152-26-036912",
+          "url": "https://www.sec.gov/Archives/edgar/data/1770501/000149315226036912/formpre14a.htm"
+        },
+        {
+          "company": "Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)",
+          "form": "8-K",
+          "filed": "2026-08-10",
+          "adsh": "0001654954-26-007428",
+          "url": "https://www.sec.gov/Archives/edgar/data/1825452/000165495426007428/onfo_ex991.htm"
+        },
+        {
+          "company": "RESIDEO TECHNOLOGIES, INC.  (REZI, REZI-WI)  (CIK 0001740332)",
+          "form": "8-K",
+          "filed": "2026-08-07",
+          "adsh": "0001213900-26-086692",
+          "url": "https://www.sec.gov/Archives/edgar/data/1740332/000121390026086692/ea030045101ex10-6.htm"
+        },
+        {
+          "company": "Ensysce Biosciences, Inc.  (ENSC)  (CIK 0001716947)",
+          "form": "8-K",
+          "filed": "2026-08-06",
+          "adsh": "0001493152-26-036268",
+          "url": "https://www.sec.gov/Archives/edgar/data/1716947/000149315226036268/ex3-2.htm"
+        },
+        {
+          "company": "Sunrise Realty Trust, Inc.  (SUNS)  (CIK 0002012706)",
+          "form": "8-K",
+          "filed": "2026-08-06",
+          "adsh": "0001829126-26-008416",
+          "url": "https://www.sec.gov/Archives/edgar/data/2012706/000182912626008416/sunriserealty_8k.htm"
+        },
+        {
+          "company": "Vireo Growth Inc.  (VREOF)  (CIK 0001771706)",
+          "form": "8-K",
+          "filed": "2026-08-05",
+          "adsh": "0001104659-26-091266",
+          "url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926091266/tm2621363d5_10-1.htm"
+        },
+        {
+          "company": "BED BATH & BEYOND, INC.  (BBBY, BBBY-WT)  (CIK 0001130713)",
+          "form": "8-K",
+          "filed": "2026-08-05",
+          "adsh": "0001140361-26-031414",
+          "url": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126031414/ef20079516_ex10-3.htm"
+        },
+        {
+          "company": "Elite Health Systems Inc.  (EHSI)  (CIK 0001089815)",
+          "form": "8-K",
+          "filed": "2026-08-05",
+          "adsh": "0001437749-26-025897",
+          "url": "https://www.sec.gov/Archives/edgar/data/1089815/000143774926025897/ex_999456.htm"
+        },
+        {
+          "company": "iPower Inc.  (IPW)  (CIK 0001830072)",
+          "form": "8-K",
+          "filed": "2026-08-05",
+          "adsh": "0001683168-26-005967",
+          "url": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826005967/ipower_ex9901.htm"
+        },
+        {
+          "company": "Z Squared Inc.  (ZSQR)  (CIK 0001759186)",
+          "form": "8-K",
+          "filed": "2026-08-04",
+          "adsh": "0001185185-26-003263",
+          "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526003263/zsqrex2-1.htm"
+        },
+        {
+          "company": "Seres Therapeutics, Inc.  (MCRB)  (CIK 0001609809)",
+          "form": "8-K",
+          "filed": "2026-08-04",
+          "adsh": "0001193125-26-332742",
+          "url": "https://www.sec.gov/Archives/edgar/data/1609809/000119312526332742/d133274dex102.htm"
+        },
+        {
+          "company": "RESIDEO TECHNOLOGIES, INC.  (REZI)  (CIK 0001740332)",
+          "form": "8-K",
+          "filed": "2026-08-04",
+          "adsh": "0001213900-26-084874",
+          "url": "https://www.sec.gov/Archives/edgar/data/1740332/000121390026084874/ea030018901ex10-1.htm"
+        },
+        {
+          "company": "ADI GLOBAL DISTRIBUTION INC.  (ADIG)  (CIK 0002105139)",
+          "form": "8-K",
+          "filed": "2026-08-04",
+          "adsh": "0001213900-26-084882",
+          "url": "https://www.sec.gov/Archives/edgar/data/2105139/000121390026084882/ea030019001ex10-1.htm"
+        },
+        {
+          "company": "Autolus Therapeutics plc  (AUTL)  (CIK 0001730463)",
+          "form": "8-K",
+          "filed": "2026-08-03",
+          "adsh": "0001193125-26-329526",
+          "url": "https://www.sec.gov/Archives/edgar/data/1730463/000119312526329526/d156965dex41.htm"
+        },
+        {
+          "company": "Ocean Power Technologies, Inc.  (OPTT)  (CIK 0001378140)",
+          "form": "DEF 14A",
+          "filed": "2026-08-03",
+          "adsh": "0001493152-26-035823",
+          "url": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226035823/formdef14a.htm"
+        },
+        {
+          "company": "Transcode Therapeutics, Inc.  (RNAZ)  (CIK 0001829635)",
+          "form": "8-K",
+          "filed": "2026-08-03",
+          "adsh": "0001104659-26-089805",
+          "url": "https://www.sec.gov/Archives/edgar/data/1829635/000110465926089805/tm2622073d1_ex3-1.htm"
+        },
+        {
+          "company": "CLOUDASTRUCTURE, INC.  (CSAI)  (CIK 0001709628)",
+          "form": "8-K",
+          "filed": "2026-08-03",
+          "adsh": "0001683168-26-005913",
+          "url": "https://www.sec.gov/Archives/edgar/data/1709628/000168316826005913/cloud_ex9901.htm"
+        },
+        {
+          "company": "Greenpro Capital Corp.  (GRNQ)  (CIK 0001597846)",
+          "form": "8-K",
+          "filed": "2026-08-03",
+          "adsh": "0001493152-26-035758",
+          "url": "https://www.sec.gov/Archives/edgar/data/1597846/000149315226035758/ex3-1.htm"
+        },
+        {
+          "company": "Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)",
+          "form": "8-K",
+          "filed": "2026-07-31",
+          "adsh": "0001213900-26-084064",
+          "url": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026084064/ea030001701ex3-1.htm"
+        },
+        {
+          "company": "Datavault AI Inc.  (DVLT)  (CIK 0001682149)",
+          "form": "8-K",
+          "filed": "2026-07-31",
+          "adsh": "0001104659-26-088890",
+          "url": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926088890/tm2621757d1_8ka.htm"
+        },
+        {
+          "company": "Calidi Biotherapeutics, Inc.  (CLDI, CLDWW)  (CIK 0001855485)",
+          "form": "8-K",
+          "filed": "2026-07-31",
+          "adsh": "0001493152-26-035666",
+          "url": "https://www.sec.gov/Archives/edgar/data/1855485/000149315226035666/form8-k.htm"
+        },
+        {
+          "company": "TOP Financial Group Ltd  (TOP)  (CIK 0001848275)",
+          "form": "8-K",
+          "filed": "2026-07-31",
+          "adsh": "0001213900-26-083605",
+          "url": "https://www.sec.gov/Archives/edgar/data/1848275/000121390026083605/ea0299850-8k_top.htm"
+        },
+        {
+          "company": "Datavault AI Inc.  (DVLT)  (CIK 0001682149)",
+          "form": "8-K",
+          "filed": "2026-07-30",
+          "adsh": "0001104659-26-088661",
+          "url": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926088661/tm2621627d1_8k.htm"
+        },
+        {
+          "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/  (NIMU)  (CIK 0000720762)",
+          "form": "8-K",
+          "filed": "2026-07-30",
+          "adsh": "0001493152-26-035484",
+          "url": "https://www.sec.gov/Archives/edgar/data/720762/000149315226035484/form8-k.htm"
+        },
+        {
+          "company": "SCWorx Corp.  (WORX)  (CIK 0001674227)",
+          "form": "8-K",
+          "filed": "2026-07-30",
+          "adsh": "0001213900-26-083096",
+          "url": "https://www.sec.gov/Archives/edgar/data/1674227/000121390026083096/ea029975501ex3-1.htm"
+        },
+        {
+          "company": "QUANTUM CORP /DE/  (QMCO)  (CIK 0000709283)",
+          "form": "DEF 14A",
+          "filed": "2026-07-29",
+          "adsh": "0001140361-26-030043",
+          "url": "https://www.sec.gov/Archives/edgar/data/709283/000114036126030043/ny20076817x1_def14a.htm"
+        },
+        {
+          "company": "SYNLOGIC, INC.  (SYBX)  (CIK 0001527599)",
+          "form": "8-K",
+          "filed": "2026-07-29",
+          "adsh": "0001193125-26-322160",
+          "url": "https://www.sec.gov/Archives/edgar/data/1527599/000119312526322160/d91010dex21.htm"
+        },
+        {
+          "company": "Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)",
+          "form": "8-K",
+          "filed": "2026-07-29",
+          "adsh": "0001493152-26-035099",
+          "url": "https://www.sec.gov/Archives/edgar/data/1533743/000149315226035099/ex3-1.htm"
+        },
+        {
+          "company": "HPS Net Lease Income REIT  (CIK 0002107762)",
+          "form": "8-K",
+          "filed": "2026-07-27",
+          "adsh": "0001193125-26-317926",
+          "url": "https://www.sec.gov/Archives/edgar/data/2107762/000119312526317926/d120209dex31.htm"
+        },
+        {
+          "company": "GENERATION INCOME PROPERTIES, INC.  (GIPR, GIPRW)  (CIK 0001651721)",
+          "form": "8-K",
+          "filed": "2026-07-27",
+          "adsh": "0001193125-26-316965",
+          "url": "https://www.sec.gov/Archives/edgar/data/1651721/000119312526316965/gipr-ex10_1.htm"
+        },
+        {
+          "company": "Knightscope, Inc.  (KSCP)  (CIK 0001600983)",
+          "form": "DEF 14A",
+          "filed": "2026-07-24",
+          "adsh": "0001104659-26-086683",
+          "url": "https://www.sec.gov/Archives/edgar/data/1600983/000110465926086683/kscp-20260902xdef14a.htm"
+        },
+        {
+          "company": "Helio Corp /FL/  (HLEO)  (CIK 0001953988)",
+          "form": "8-K",
+          "filed": "2026-07-24",
+          "adsh": "0001683168-26-005762",
+          "url": "https://www.sec.gov/Archives/edgar/data/1953988/000168316826005762/helio_ex0301.htm"
+        },
+        {
+          "company": "L3HARRIS TECHNOLOGIES, INC. /DE/  (LHX)  (CIK 0000202058)",
+          "form": "8-K",
+          "filed": "2026-07-24",
+          "adsh": "0000202058-26-000047",
+          "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000047/hrs-20260723.htm"
+        },
+        {
+          "company": "RMX INDUSTRIES, INC.  (RMXI)  (CIK 0001970743)",
+          "form": "8-K",
+          "filed": "2026-07-24",
+          "adsh": "0001213900-26-081358",
+          "url": "https://www.sec.gov/Archives/edgar/data/1970743/000121390026081358/ea029896201ex99-1.htm"
+        },
+        {
+          "company": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)",
+          "form": "8-K",
+          "filed": "2026-07-24",
+          "adsh": "0001213900-26-081373",
+          "url": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026081373/ea029911401ex99-1.htm"
+        },
+        {
+          "company": "Ocean Power Technologies, Inc.  (OPTT)  (CIK 0001378140)",
+          "form": "PRE 14A",
+          "filed": "2026-07-23",
+          "adsh": "0001493152-26-034436",
+          "url": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226034436/formpre14a.htm"
+        },
+        {
+          "company": "MICROVISION, INC.  (MVIS)  (CIK 0000065770)",
+          "form": "8-K",
+          "filed": "2026-07-22",
+          "adsh": "0001493152-26-034194",
+          "url": "https://www.sec.gov/Archives/edgar/data/65770/000149315226034194/form8-k.htm"
+        }
+      ]
+    }
+  ]
+}
